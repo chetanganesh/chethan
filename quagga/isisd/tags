@@ -1,0 +1,1523 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A	topology/random.c	160;"	d	file:
+A	topology/random.c	88;"	d	file:
+A1	topology/random.c	161;"	d	file:
+A2	topology/random.c	162;"	d	file:
+ADDR_DESTUNKNOWN	include-netbsd/clnp.h	329;"	d
+ADDR_DESTUNREACH	include-netbsd/clnp.h	328;"	d
+AFI_37	include-netbsd/iso.h	179;"	d
+AFI_OSINET	include-netbsd/iso.h	180;"	d
+AFI_RFC986	include-netbsd/iso.h	181;"	d
+AFI_SNA	include-netbsd/iso.h	182;"	d
+ALL_ESS	isis_bpf.c	/^u_char ALL_ESS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x04 };$/;"	v
+ALL_ESS	isis_dlpi.c	/^u_char ALL_ESS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x04 };$/;"	v
+ALL_ESS	isis_pfpacket.c	/^u_char ALL_ESS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x04 };$/;"	v
+ALL_ISS	isis_bpf.c	/^u_char ALL_ISS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x05 };$/;"	v
+ALL_ISS	isis_dlpi.c	/^u_char ALL_ISS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x05 };$/;"	v
+ALL_ISS	isis_pfpacket.c	/^u_char ALL_ISS[6] = { 0x09, 0x00, 0x2B, 0x00, 0x00, 0x05 };$/;"	v
+ALL_L1_ISS	isis_bpf.c	/^u_char ALL_L1_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x14 };$/;"	v
+ALL_L1_ISS	isis_dlpi.c	/^u_char ALL_L1_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x14 };$/;"	v
+ALL_L1_ISS	isis_pfpacket.c	/^u_char ALL_L1_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x14 };$/;"	v
+ALL_L2_ISS	isis_bpf.c	/^u_char ALL_L2_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x15 };$/;"	v
+ALL_L2_ISS	isis_dlpi.c	/^u_char ALL_L2_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x15 };$/;"	v
+ALL_L2_ISS	isis_pfpacket.c	/^u_char ALL_L2_ISS[6] = { 0x01, 0x80, 0xC2, 0x00, 0x00, 0x15 };$/;"	v
+AREA_ADDRESSES	isis_tlv.h	90;"	d
+AUTH_ERROR_TYPE_HELLO	isis_events.h	50;"	d
+AUTH_ERROR_TYPE_LSP	isis_events.h	48;"	d
+AUTH_ERROR_TYPE_SNP	isis_events.h	49;"	d
+AUTH_INFO	isis_tlv.h	96;"	d
+AUTH_INFO_HDRLEN	isis_tlv.h	113;"	d
+Adj_N	isis_spf.h	/^  struct list *Adj_N;		\/* {Adj(N)} next hop or neighbor list *\/$/;"	m	struct:isis_vertex	typeref:struct:isis_vertex::list
+B	topology/random.c	163;"	d	file:
+B	topology/random.c	89;"	d	file:
+BF	topology/random.c	164;"	d	file:
+BF	topology/random.c	90;"	d	file:
+CHECKSUM	isis_tlv.h	97;"	d
+CIRCUIT_MAX	isis_circuit.h	28;"	d
+CIRCUIT_T_BROADCAST	isis_circuit.h	92;"	d
+CIRCUIT_T_LOOPBACK	isis_circuit.h	94;"	d
+CIRCUIT_T_P2P	isis_circuit.h	93;"	d
+CIRCUIT_T_UNKNOWN	isis_circuit.h	91;"	d
+CKSUM_REQUIRED	include-netbsd/clnp.h	89;"	d
+CLNPOPT_FLAGS	include-netbsd/clnp.h	249;"	d
+CLNPOPT_OPTS	include-netbsd/clnp.h	250;"	d
+CLNPOVAL_COMPRT	include-netbsd/clnp.h	273;"	d
+CLNPOVAL_CONGESTED	include-netbsd/clnp.h	269;"	d
+CLNPOVAL_DSTSPEC	include-netbsd/clnp.h	264;"	d
+CLNPOVAL_ERREAS	include-netbsd/clnp.h	261;"	d
+CLNPOVAL_GLOBAL	include-netbsd/clnp.h	265;"	d
+CLNPOVAL_LOWDELAY	include-netbsd/clnp.h	270;"	d
+CLNPOVAL_PAD	include-netbsd/clnp.h	255;"	d
+CLNPOVAL_PARTRT	include-netbsd/clnp.h	272;"	d
+CLNPOVAL_PRIOR	include-netbsd/clnp.h	260;"	d
+CLNPOVAL_QOS	include-netbsd/clnp.h	259;"	d
+CLNPOVAL_RECRT	include-netbsd/clnp.h	258;"	d
+CLNPOVAL_SECURE	include-netbsd/clnp.h	256;"	d
+CLNPOVAL_SEQUENCING	include-netbsd/clnp.h	268;"	d
+CLNPOVAL_SRCRT	include-netbsd/clnp.h	257;"	d
+CLNPOVAL_SRCSPEC	include-netbsd/clnp.h	263;"	d
+CLNPSRCRT_CADDR	include-netbsd/clnp.h	236;"	d
+CLNPSRCRT_CLEN	include-netbsd/clnp.h	232;"	d
+CLNPSRCRT_OFF	include-netbsd/clnp.h	224;"	d
+CLNPSRCRT_TERM	include-netbsd/clnp.h	243;"	d
+CLNPSRCRT_TYPE	include-netbsd/clnp.h	228;"	d
+CLNPSRCRT_VALID	include-netbsd/clnp.h	221;"	d
+CLNP_CKSUM_OFF	include-netbsd/clnp.h	115;"	d
+CLNP_DT	include-netbsd/clnp.h	309;"	d
+CLNP_EC	include-netbsd/clnp.h	312;"	d
+CLNP_ECHO	include-netbsd/clnp.h	283;"	d
+CLNP_ECHOR	include-netbsd/clnp.h	285;"	d
+CLNP_ECR	include-netbsd/clnp.h	313;"	d
+CLNP_ER	include-netbsd/clnp.h	310;"	d
+CLNP_ERRORS	include-netbsd/clnp.h	350;"	d
+CLNP_EXTRACT_ADDR	include-netbsd/clnp.h	412;"	d
+CLNP_HDR_MAX	include-netbsd/clnp.h	296;"	d
+CLNP_HDR_MIN	include-netbsd/clnp.h	295;"	d
+CLNP_INSERT_ADDR	include-netbsd/clnp.h	428;"	d
+CLNP_NOCACHE	include-netbsd/clnp.h	284;"	d
+CLNP_NO_CKSUM	include-netbsd/clnp.h	282;"	d
+CLNP_NO_ER	include-netbsd/clnp.h	280;"	d
+CLNP_NO_SEG	include-netbsd/clnp.h	279;"	d
+CLNP_OFFTOOPT	include-netbsd/clnp.h	218;"	d
+CLNP_OPTTOOFF	include-netbsd/clnp.h	215;"	d
+CLNP_RAW	include-netbsd/clnp.h	311;"	d
+CLNP_SEND_RAW	include-netbsd/clnp.h	281;"	d
+CLNP_TTL	include-netbsd/clnp.h	298;"	d
+CLNP_TTL_UNITS	include-netbsd/clnp.h	297;"	d
+CLNP_VFLAGS	include-netbsd/clnp.h	288;"	d
+CNF_ERR_OK	include-netbsd/clnp.h	111;"	d
+CNF_MORE_SEGS	include-netbsd/clnp.h	112;"	d
+CNF_SEG_OK	include-netbsd/clnp.h	113;"	d
+CNF_TYPE	include-netbsd/clnp.h	110;"	d
+CSNP_JITTER	isis_constants.h	45;"	d
+CTOH	include-netbsd/clnp.h	82;"	d
+CTRL_INFO_DIRECTION	isis_tlv.h	232;"	d
+CTRL_INFO_DISTRIBUTION	isis_tlv.h	236;"	d
+CTRL_INFO_SUBTLVS	isis_tlv.h	240;"	d
+CYCLE	topology/spgrid.c	21;"	d	file:
+C_STATE_CONF	isis_csm.h	32;"	d
+C_STATE_INIT	isis_csm.h	31;"	d
+C_STATE_NA	isis_csm.h	30;"	d
+C_STATE_UP	isis_csm.h	33;"	d
+DASH	topology/spacyc.c	9;"	d	file:
+DASH	topology/spgrid.c	17;"	d	file:
+DASH	topology/sprand.c	10;"	d	file:
+DEBUG_ADJ_PACKETS	isisd.h	143;"	d
+DEBUG_CHECKSUM_ERRORS	isisd.h	144;"	d
+DEBUG_EVENTS	isisd.h	153;"	d
+DEBUG_LOCAL_UPDATES	isisd.h	145;"	d
+DEBUG_LSP_GEN	isisd.h	156;"	d
+DEBUG_LSP_SCHED	isisd.h	157;"	d
+DEBUG_PACKET_DUMP	isisd.h	155;"	d
+DEBUG_PROTOCOL_ERRORS	isisd.h	146;"	d
+DEBUG_RTE_EVENTS	isisd.h	152;"	d
+DEBUG_SNP_PACKETS	isisd.h	147;"	d
+DEBUG_SPF_EVENTS	isisd.h	149;"	d
+DEBUG_SPF_STATS	isisd.h	150;"	d
+DEBUG_SPF_TRIGGERS	isisd.h	151;"	d
+DEBUG_UPDATE_PACKETS	isisd.h	148;"	d
+DEBUG_ZEBRA	isisd.h	154;"	d
+DECBIT	include-netbsd/clnp.h	66;"	d
+DEFAULT_CIRCUIT_METRIC	isis_constants.h	96;"	d
+DEFAULT_CSNP_INTERVAL	isis_constants.h	77;"	d
+DEFAULT_HELLO_INTERVAL	isis_constants.h	85;"	d
+DEFAULT_HELLO_MULTIPLIER	isis_constants.h	89;"	d
+DEFAULT_LSP_LIFETIME	isis_constants.h	63;"	d
+DEFAULT_LSP_MTU	isisd.h	67;"	d
+DEFAULT_MAX_LSP_GEN_INTERVAL	isis_constants.h	67;"	d
+DEFAULT_MIN_LSP_GEN_INTERVAL	isis_constants.h	71;"	d
+DEFAULT_ORIGINATE	isis_redist.h	27;"	d
+DEFAULT_ORIGINATE_ALWAYS	isis_redist.h	28;"	d
+DEFAULT_PRIORITY	isis_constants.h	93;"	d
+DEFAULT_PSNP_INTERVAL	isis_constants.h	81;"	d
+DEFAULT_ROUTE	isis_redist.h	26;"	d
+DEFAULT_TOPOLOGY_BASEIS	isisd.c	/^u_char DEFAULT_TOPOLOGY_BASEIS[6] = { 0xFE, 0xED, 0xFE, 0xED, 0x00, 0x00 };$/;"	v
+DICTCOUNT_T_MAX	dict.h	35;"	d
+DICT_DEPTH_MAX	dict.c	55;"	d	file:
+DICT_H	dict.h	22;"	d
+DIRECTION_DOWN	isis_tlv.h	234;"	d
+DIRECTION_UP	isis_tlv.h	233;"	d
+DISC_UNSUPPOPT	include-netbsd/clnp.h	342;"	d
+DISC_UNSUPPRECRT	include-netbsd/clnp.h	346;"	d
+DISC_UNSUPPSECURE	include-netbsd/clnp.h	344;"	d
+DISC_UNSUPPSRCRT	include-netbsd/clnp.h	345;"	d
+DISC_UNSUPPVERS	include-netbsd/clnp.h	343;"	d
+DISTRIBUTION_EXTERNAL	isis_tlv.h	238;"	d
+DISTRIBUTION_INTERNAL	isis_tlv.h	237;"	d
+DIS_RECORDS	isis_adjacency.h	66;"	d
+DOUBLE_CYCLE	topology/spgrid.c	20;"	d	file:
+DYNAMIC_HOSTNAME	isis_tlv.h	107;"	d
+ER_INVALREAS	include-netbsd/clnp.h	212;"	d
+ESH_PDU	isis_pdu.h	65;"	d
+ESISOVAL_ESCT	include-netbsd/esis.h	95;"	d
+ESISOVAL_NETMASK	include-netbsd/esis.h	93;"	d
+ESISOVAL_SNPAMASK	include-netbsd/esis.h	94;"	d
+ESIS_CKSUM_OFF	include-netbsd/esis.h	99;"	d
+ESIS_CKSUM_REQUIRED	include-netbsd/esis.h	100;"	d
+ESIS_CONFIG	include-netbsd/esis.h	68;"	d
+ESIS_ESH	include-netbsd/esis.h	82;"	d
+ESIS_FIXED_HDR_LEN	isis_pdu.h	63;"	d
+ESIS_HT	include-netbsd/esis.h	69;"	d
+ESIS_ISH	include-netbsd/esis.h	83;"	d
+ESIS_RD	include-netbsd/esis.h	84;"	d
+ESIS_VERSION	include-netbsd/esis.h	103;"	d
+ES_NEIGHBOURS	isis_tlv.h	92;"	d
+ETHER_ADDR_LEN	isis_circuit.c	30;"	d	file:
+ETH_ALEN	isis_constants.h	168;"	d
+EVENT2STR	isis_csm.c	72;"	d	file:
+GEN_BADCSUM	include-netbsd/clnp.h	320;"	d
+GEN_CONGEST	include-netbsd/clnp.h	321;"	d
+GEN_DUPOPT	include-netbsd/clnp.h	325;"	d
+GEN_HDRSYNTAX	include-netbsd/clnp.h	322;"	d
+GEN_INCOMPLETE	include-netbsd/clnp.h	324;"	d
+GEN_NOREAS	include-netbsd/clnp.h	318;"	d
+GEN_PROTOERR	include-netbsd/clnp.h	319;"	d
+GEN_SEGNEEDED	include-netbsd/clnp.h	323;"	d
+GETSYSID	isis_misc.h	64;"	d
+GET_TE_METRIC	isis_tlv.h	140;"	d
+GRACEFUL_RESTART	isis_tlv.h	108;"	d
+HTOC	include-netbsd/clnp.h	76;"	d
+IDRP_INFO	isis_tlv.h	103;"	d
+IF_DOWN_FROM_Z	isis_csm.h	41;"	d
+IF_UP_FROM_Z	isis_csm.h	39;"	d
+IIH_JITTER	isis_constants.h	42;"	d
+INTRADOMAIN_ROUTEING_SELECTOR	isis_constants.h	35;"	d
+IPV4_ADDR	isis_tlv.h	104;"	d
+IPV4_EXT_REACHABILITY	isis_tlv.h	102;"	d
+IPV4_INT_REACHABILITY	isis_tlv.h	100;"	d
+IPV4_REACH_LEN	isis_tlv.h	120;"	d
+IPV6_ADDR	isis_tlv.h	109;"	d
+IPV6_REACHABILITY	isis_tlv.h	110;"	d
+IPV6_REACH_LEN	isis_tlv.h	121;"	d
+ISH_PDU	isis_pdu.h	66;"	d
+ISISD_DEFAULT_CONFIG	isis_main.c	55;"	d	file:
+ISISD_H	isisd.h	24;"	d
+ISISD_VERSION	isisd.h	26;"	d
+ISISD_VTY_PORT	isis_main.c	57;"	d	file:
+ISIS_ADJ_DOWN	isis_adjacency.h	/^  ISIS_ADJ_DOWN$/;"	e	enum:isis_adj_state
+ISIS_ADJ_INITIALIZING	isis_adjacency.h	/^  ISIS_ADJ_INITIALIZING,$/;"	e	enum:isis_adj_state
+ISIS_ADJ_LEVEL1	isis_adjacency.h	/^  ISIS_ADJ_LEVEL1,$/;"	e	enum:isis_adj_usage
+ISIS_ADJ_LEVEL1AND2	isis_adjacency.h	/^  ISIS_ADJ_LEVEL1AND2$/;"	e	enum:isis_adj_usage
+ISIS_ADJ_LEVEL2	isis_adjacency.h	/^  ISIS_ADJ_LEVEL2,$/;"	e	enum:isis_adj_usage
+ISIS_ADJ_NONE	isis_adjacency.h	/^  ISIS_ADJ_NONE,$/;"	e	enum:isis_adj_usage
+ISIS_ADJ_REASON_AREA_MISMATCH	isis_adjacency.h	/^  ISIS_ADJ_REASON_AREA_MISMATCH,$/;"	e	enum:isis_adj_updown_reason
+ISIS_ADJ_REASON_AUTH_FAILED	isis_adjacency.h	/^  ISIS_ADJ_REASON_AUTH_FAILED,$/;"	e	enum:isis_adj_updown_reason
+ISIS_ADJ_REASON_CHECKSUM_FAILED	isis_adjacency.h	/^  ISIS_ADJ_REASON_CHECKSUM_FAILED$/;"	e	enum:isis_adj_updown_reason
+ISIS_ADJ_REASON_HOLDTIMER_EXPIRED	isis_adjacency.h	/^  ISIS_ADJ_REASON_HOLDTIMER_EXPIRED,$/;"	e	enum:isis_adj_updown_reason
+ISIS_ADJ_REASON_SEENSELF	isis_adjacency.h	/^  ISIS_ADJ_REASON_SEENSELF,$/;"	e	enum:isis_adj_updown_reason
+ISIS_ADJ_UNKNOWN	isis_adjacency.h	/^  ISIS_ADJ_UNKNOWN,$/;"	e	enum:isis_adj_state
+ISIS_ADJ_UP	isis_adjacency.h	/^  ISIS_ADJ_UP,$/;"	e	enum:isis_adj_state
+ISIS_AUTH_MD5_SIZE	isis_pdu.h	255;"	d
+ISIS_CHECK_FLAG	isis_flags.h	55;"	d
+ISIS_CIRCUIT_FLAPPED_AFTER_SPF	isis_circuit.h	127;"	d
+ISIS_CIRCUIT_H	isis_circuit.h	24;"	d
+ISIS_CLEAR_FLAG	isis_flags.h	50;"	d
+ISIS_COMMON_H	isis_common.h	25;"	d
+ISIS_CONSTANTS_H	isis_constants.h	24;"	d
+ISIS_CRITICAL	isis_constants.h	119;"	d
+ISIS_CSNP_HDRLEN	isis_pdu.h	221;"	d
+ISIS_DISABLE	isis_csm.h	40;"	d
+ISIS_ENABLE	isis_csm.h	38;"	d
+ISIS_ERROR	isis_constants.h	118;"	d
+ISIS_FIXED_HDR_LEN	isis_pdu.h	100;"	d
+ISIS_FLAGS_CLEAR_ALL	isis_flags.h	63;"	d
+ISIS_FLAGS_SET_ALL	isis_flags.h	58;"	d
+ISIS_IS_DIS	isis_dr.h	/^  ISIS_IS_DIS,$/;"	e	enum:isis_dis_state
+ISIS_IS_NOT_DIS	isis_dr.h	/^  ISIS_IS_NOT_DIS,$/;"	e	enum:isis_dis_state
+ISIS_LANHELLO_HDRLEN	isis_pdu.h	133;"	d
+ISIS_LEVEL1	isis_constants.h	51;"	d
+ISIS_LEVEL2	isis_constants.h	52;"	d
+ISIS_LEVELS	isis_constants.h	50;"	d
+ISIS_LSP_HDR_LEN	isis_pdu.h	187;"	d
+ISIS_MASK_LSP_ATT_BITS	isis_constants.h	152;"	d
+ISIS_MASK_LSP_ATT_DEFAULT_BIT	isis_constants.h	156;"	d
+ISIS_MASK_LSP_ATT_DELAY_BIT	isis_constants.h	155;"	d
+ISIS_MASK_LSP_ATT_ERROR_BIT	isis_constants.h	153;"	d
+ISIS_MASK_LSP_ATT_EXPENSE_BIT	isis_constants.h	154;"	d
+ISIS_MASK_LSP_IS_L1_BIT	isis_constants.h	149;"	d
+ISIS_MASK_LSP_IS_L2_BIT	isis_constants.h	150;"	d
+ISIS_MASK_LSP_OL_BIT	isis_constants.h	148;"	d
+ISIS_MASK_LSP_PARTITION_BIT	isis_constants.h	151;"	d
+ISIS_MAX_CIRCUITS	isis_flags.h	29;"	d
+ISIS_MAX_PATH_SPLITS	isis_constants.h	102;"	d
+ISIS_MINIMUM_FIXED_HDR_LEN	isis_pdu.c	57;"	d	file:
+ISIS_MIN_PDU_LEN	isis_pdu.c	58;"	d	file:
+ISIS_NSEL_LEN	isis_constants.h	131;"	d
+ISIS_OK	isis_constants.h	116;"	d
+ISIS_P2PHELLO_HDRLEN	isis_pdu.h	158;"	d
+ISIS_PASSWD_TYPE_CLEARTXT	isis_common.h	40;"	d
+ISIS_PASSWD_TYPE_HMAC_MD5	isis_common.h	41;"	d
+ISIS_PASSWD_TYPE_PRIVATE	isis_common.h	42;"	d
+ISIS_PASSWD_TYPE_UNUSED	isis_common.h	39;"	d
+ISIS_PSNP_HDRLEN	isis_pdu.h	238;"	d
+ISIS_REDIST_H	isis_redist.h	22;"	d
+ISIS_ROUTEMAP_H	isis_routemap.h	21;"	d
+ISIS_ROUTE_FLAG_ACTIVE	isis_route.h	48;"	d
+ISIS_ROUTE_FLAG_ZEBRA_RESYNC	isis_route.h	50;"	d
+ISIS_ROUTE_FLAG_ZEBRA_SYNCED	isis_route.h	49;"	d
+ISIS_SET_FLAG	isis_flags.h	45;"	d
+ISIS_SNP_CSNP_FLAG	isis_pdu.h	253;"	d
+ISIS_SNP_PSNP_FLAG	isis_pdu.h	252;"	d
+ISIS_SYSTYPE_ES	isis_adjacency.h	/^  ISIS_SYSTYPE_ES,$/;"	e	enum:isis_system_type
+ISIS_SYSTYPE_IS	isis_adjacency.h	/^  ISIS_SYSTYPE_IS,$/;"	e	enum:isis_system_type
+ISIS_SYSTYPE_L1_IS	isis_adjacency.h	/^  ISIS_SYSTYPE_L1_IS,$/;"	e	enum:isis_system_type
+ISIS_SYSTYPE_L2_IS	isis_adjacency.h	/^  ISIS_SYSTYPE_L2_IS$/;"	e	enum:isis_system_type
+ISIS_SYSTYPE_UNKNOWN	isis_adjacency.h	/^  ISIS_SYSTYPE_UNKNOWN,$/;"	e	enum:isis_system_type
+ISIS_SYS_ID_LEN	isis_constants.h	130;"	d
+ISIS_UI_LEVEL_BRIEF	isis_misc.h	/^  ISIS_UI_LEVEL_BRIEF,$/;"	e	enum:__anon1
+ISIS_UI_LEVEL_DETAIL	isis_misc.h	/^  ISIS_UI_LEVEL_DETAIL,$/;"	e	enum:__anon1
+ISIS_UI_LEVEL_EXTENSIVE	isis_misc.h	/^  ISIS_UI_LEVEL_EXTENSIVE,$/;"	e	enum:__anon1
+ISIS_UNKNOWN_DIS	isis_dr.h	/^  ISIS_UNKNOWN_DIS$/;"	e	enum:isis_dis_state
+ISIS_WARNING	isis_constants.h	117;"	d
+ISIS_WAS_DIS	isis_dr.h	/^  ISIS_WAS_DIS,$/;"	e	enum:isis_dis_state
+ISO10589_ISIS	include-netbsd/iso.h	136;"	d
+ISO10747_IDRP	include-netbsd/iso.h	138;"	d
+ISO8473_CLNP	include-netbsd/iso.h	133;"	d
+ISO8473_V1	include-netbsd/clnp.h	299;"	d
+ISO8878A_CONS	include-netbsd/iso.h	137;"	d
+ISO9542X25_ESIS	include-netbsd/iso.h	135;"	d
+ISO9542_ESIS	include-netbsd/iso.h	134;"	d
+ISOPROTO_CLNP	include-netbsd/iso.h	100;"	d
+ISOPROTO_CLTP	include-netbsd/iso.h	99;"	d
+ISOPROTO_ESIS	include-netbsd/iso.h	103;"	d
+ISOPROTO_IDRP	include-netbsd/iso.h	105;"	d
+ISOPROTO_INACT_NL	include-netbsd/iso.h	102;"	d
+ISOPROTO_INTRAISIS	include-netbsd/iso.h	104;"	d
+ISOPROTO_MAX	include-netbsd/iso.h	108;"	d
+ISOPROTO_RAW	include-netbsd/iso.h	107;"	d
+ISOPROTO_TCP	include-netbsd/iso.h	91;"	d
+ISOPROTO_TP	include-netbsd/iso.h	98;"	d
+ISOPROTO_TP0	include-netbsd/iso.h	93;"	d
+ISOPROTO_TP1	include-netbsd/iso.h	94;"	d
+ISOPROTO_TP2	include-netbsd/iso.h	95;"	d
+ISOPROTO_TP3	include-netbsd/iso.h	96;"	d
+ISOPROTO_TP4	include-netbsd/iso.h	97;"	d
+ISOPROTO_UDP	include-netbsd/iso.h	92;"	d
+ISOPROTO_X25	include-netbsd/iso.h	101;"	d
+ISO_MTU	isis_constants.h	163;"	d
+ISO_PORT_DISCARD	include-netbsd/iso.h	118;"	d
+ISO_PORT_ECHO	include-netbsd/iso.h	117;"	d
+ISO_PORT_LOGIN	include-netbsd/iso.h	124;"	d
+ISO_PORT_MAINT	include-netbsd/iso.h	116;"	d
+ISO_PORT_NETSTAT	include-netbsd/iso.h	120;"	d
+ISO_PORT_PUBLIC	include-netbsd/iso.h	128;"	d
+ISO_PORT_RESERVED	include-netbsd/iso.h	110;"	d
+ISO_PORT_SYSTAT	include-netbsd/iso.h	119;"	d
+ISO_PORT_USERRESERVED	include-netbsd/iso.h	111;"	d
+ISO_SAP	isis_constants.h	34;"	d
+IS_ALIAS	isis_tlv.h	99;"	d
+IS_CLUSTER	include-netbsd/clnp.h	71;"	d
+IS_LEVEL_1	isis_constants.h	125;"	d
+IS_LEVEL_1_AND_2	isis_constants.h	127;"	d
+IS_LEVEL_2	isis_constants.h	126;"	d
+IS_MULTICAST	include-netbsd/iso.h	85;"	d
+IS_NEIGHBOURS	isis_tlv.h	91;"	d
+IS_NEIGHBOURS_LEN	isis_tlv.h	117;"	d
+L1_COMPLETE_SEQ_NUM	isis_pdu.h	200;"	d
+L1_LAN_HELLO	isis_pdu.h	106;"	d
+L1_LINK_STATE	isis_pdu.h	160;"	d
+L1_PARTIAL_SEQ_NUM	isis_pdu.h	223;"	d
+L2_COMPLETE_SEQ_NUM	isis_pdu.h	201;"	d
+L2_LAN_HELLO	isis_pdu.h	107;"	d
+L2_LINK_STATE	isis_pdu.h	161;"	d
+L2_PARTIAL_SEQ_NUM	isis_pdu.h	224;"	d
+LAN_NEIGHBOURS	isis_tlv.h	93;"	d
+LAN_NEIGHBOURS_LEN	isis_tlv.h	118;"	d
+LAN_addr	isis_tlv.h	/^  u_char LAN_addr[6];$/;"	m	struct:lan_neigh
+LLC_LEN	isis_constants.h	158;"	d
+LSPBIT_ATT	isis_constants.h	138;"	d
+LSPBIT_IST	isis_constants.h	140;"	d
+LSPBIT_OL	isis_constants.h	139;"	d
+LSPBIT_P	isis_constants.h	137;"	d
+LSP_ENTRIES	isis_tlv.h	95;"	d
+LSP_ENTRIES_LEN	isis_tlv.h	119;"	d
+LSP_EQUAL	isis_lsp.h	94;"	d
+LSP_FRAGMENT	isis_lsp.h	99;"	d
+LSP_NEWER	isis_lsp.h	95;"	d
+LSP_OLDER	isis_lsp.h	96;"	d
+LSP_PSEUDO_ID	isis_lsp.h	98;"	d
+MAX_AGE	isis_constants.h	59;"	d
+MAX_AGE_JITTER	isis_constants.h	43;"	d
+MAX_CSNP_INTERVAL	isis_constants.h	76;"	d
+MAX_HELLO_INTERVAL	isis_constants.h	84;"	d
+MAX_HELLO_MULTIPLIER	isis_constants.h	88;"	d
+MAX_LSP_ENTRIES_TLV_SIZE	isis_pdu.h	198;"	d
+MAX_LSP_GEN_JITTER	isis_constants.h	44;"	d
+MAX_LSP_LIFETIME	isis_constants.h	62;"	d
+MAX_MAX_LSP_GEN_INTERVAL	isis_constants.h	66;"	d
+MAX_MIN_LSP_GEN_INTERVAL	isis_constants.h	70;"	d
+MAX_NARROW_LINK_METRIC	isis_constants.h	30;"	d
+MAX_NARROW_PATH_METRIC	isis_constants.h	31;"	d
+MAX_PRIORITY	isis_constants.h	92;"	d
+MAX_PSNP_INTERVAL	isis_constants.h	80;"	d
+MAX_TLV_LEN	isis_tlv.h	115;"	d
+MAX_WIDE_LINK_METRIC	isis_constants.h	32;"	d
+MAX_WIDE_PATH_METRIC	isis_constants.h	33;"	d
+METRICS_UNSUPPORTED	isis_constants.h	98;"	d
+MINIMUM_SPF_INTERVAL	isis_constants.h	100;"	d
+MIN_CSNP_INTERVAL	isis_constants.h	75;"	d
+MIN_HELLO_INTERVAL	isis_constants.h	83;"	d
+MIN_HELLO_MULTIPLIER	isis_constants.h	87;"	d
+MIN_LSP_LIFETIME	isis_constants.h	61;"	d
+MIN_LSP_TRANS_INTERVAL	isis_constants.h	73;"	d
+MIN_MAX_LSP_GEN_INTERVAL	isis_constants.h	65;"	d
+MIN_MIN_LSP_GEN_INTERVAL	isis_constants.h	69;"	d
+MIN_PRIORITY	isis_constants.h	91;"	d
+MIN_PSNP_INTERVAL	isis_constants.h	79;"	d
+N	isis_spf.h	/^  } N;$/;"	m	struct:isis_vertex	typeref:union:isis_vertex::__anon5
+NK	topology/random.c	133;"	d	file:
+NK	topology/random.c	146;"	d	file:
+NLPID_CLNP	isis_constants.h	110;"	d
+NLPID_ESIS	isis_constants.h	111;"	d
+NLPID_IP	isis_constants.h	107;"	d
+NLPID_IPV6	isis_constants.h	108;"	d
+NLPID_SNAP	isis_constants.h	109;"	d
+NO	topology/spgrid.c	24;"	d	file:
+NODE	topology/spgrid.c	27;"	d	file:
+ONE_DAY_SECOND	isisd.c	1265;"	d	file:
+ONE_WEEK_SECOND	isisd.c	1266;"	d	file:
+OWNLSPID	isis_lsp.h	100;"	d
+P2P_HELLO	isis_pdu.h	135;"	d
+PADDING	isis_tlv.h	94;"	d
+PATH	topology/spgrid.c	22;"	d	file:
+PNBBY	isis_pdu.c	61;"	d	file:
+PRINT_ARC	topology/spacyc.c	83;"	d	file:
+PRINT_ARC	topology/sprand.c	83;"	d	file:
+PROTOCOLS_SUPPORTED	isis_tlv.h	101;"	d
+PSNP_JITTER	isis_constants.h	46;"	d
+RANDOM_SPREAD	isis_constants.h	48;"	d
+RD_PDU	isis_pdu.h	67;"	d
+REASS_INTERFERE	include-netbsd/clnp.h	349;"	d
+REDIST_PROTOCOL_COUNT	isis_redist.h	24;"	d
+SAME_ISOADDR	include-netbsd/iso.h	171;"	d
+SAME_ISOIFADDR	include-netbsd/iso.h	173;"	d
+SECS_PER_DAY	isis_misc.h	71;"	d
+SECS_PER_HOUR	isis_misc.h	70;"	d
+SECS_PER_MINUTE	isis_misc.h	69;"	d
+SECS_PER_MONTH	isis_misc.h	73;"	d
+SECS_PER_WEEK	isis_misc.h	72;"	d
+SECS_PER_YEAR	isis_misc.h	74;"	d
+SEQUENCE_MODULUS	isis_constants.h	36;"	d
+SET_TE_METRIC	isis_tlv.h	143;"	d
+SNPAC_AGE	include-netbsd/esis.h	67;"	d
+SNPA_ADDRSTRLEN	isis_constants.h	129;"	d
+SNP_AUTH_RECV	isis_common.h	46;"	d
+SNP_AUTH_SEND	isis_common.h	45;"	d
+SN_MTU	include-netbsd/clnp.h	390;"	d
+SN_MTU	include-netbsd/clnp.h	404;"	d
+SN_OUTPUT	include-netbsd/clnp.h	387;"	d
+SN_OUTPUT	include-netbsd/clnp.h	400;"	d
+SRCRT_BADPATH	include-netbsd/clnp.h	335;"	d
+SRCRT_SYNTAX	include-netbsd/clnp.h	333;"	d
+SRCRT_UNKNOWNADDR	include-netbsd/clnp.h	334;"	d
+SRCRT_UNSPECERR	include-netbsd/clnp.h	332;"	d
+SRMflags	isis_lsp.h	/^  u_int32_t SRMflags[ISIS_MAX_CIRCUITS];$/;"	m	struct:isis_lsp
+SSNflags	isis_lsp.h	/^  u_int32_t SSNflags[ISIS_MAX_CIRCUITS];$/;"	m	struct:isis_lsp
+STATE2STR	isis_csm.c	62;"	d	file:
+SYSID_STRLEN	isis_constants.h	132;"	d
+T15	topology/random.c	165;"	d	file:
+T16	topology/random.c	166;"	d	file:
+TE_IPV4_REACHABILITY	isis_tlv.h	106;"	d
+TE_IPV4_REACH_LEN	isis_tlv.h	122;"	d
+TE_IS_NEIGHBOURS	isis_tlv.h	98;"	d
+TE_ROUTER_ID	isis_tlv.h	105;"	d
+TLVFLAG_3WAY_HELLO	isis_tlv.h	292;"	d
+TLVFLAG_AREA_ADDRS	isis_tlv.h	274;"	d
+TLVFLAG_AUTH_INFO	isis_tlv.h	282;"	d
+TLVFLAG_CHECKSUM	isis_tlv.h	294;"	d
+TLVFLAG_DYN_HOSTNAME	isis_tlv.h	287;"	d
+TLVFLAG_ES_NEIGHS	isis_tlv.h	276;"	d
+TLVFLAG_GRACEFUL_RESTART	isis_tlv.h	295;"	d
+TLVFLAG_IPV4_ADDR	isis_tlv.h	286;"	d
+TLVFLAG_IPV4_EXT_REACHABILITY	isis_tlv.h	285;"	d
+TLVFLAG_IPV4_INT_REACHABILITY	isis_tlv.h	283;"	d
+TLVFLAG_IPV6_ADDR	isis_tlv.h	288;"	d
+TLVFLAG_IPV6_REACHABILITY	isis_tlv.h	289;"	d
+TLVFLAG_IS_NEIGHS	isis_tlv.h	275;"	d
+TLVFLAG_LAN_NEIGHS	isis_tlv.h	279;"	d
+TLVFLAG_LSP_ENTRIES	isis_tlv.h	280;"	d
+TLVFLAG_NLPID	isis_tlv.h	284;"	d
+TLVFLAG_PADDING	isis_tlv.h	281;"	d
+TLVFLAG_PARTITION_DESIG_LEVEL2_IS	isis_tlv.h	277;"	d
+TLVFLAG_PREFIX_NEIGHS	isis_tlv.h	278;"	d
+TLVFLAG_TE_IPV4_REACHABILITY	isis_tlv.h	291;"	d
+TLVFLAG_TE_IS_NEIGHS	isis_tlv.h	290;"	d
+TLVFLAG_TE_ROUTER_ID	isis_tlv.h	293;"	d
+TR_BLAST	include-netbsd/clnp.h	374;"	d
+TR_CHANGE	include-netbsd/clnp.h	371;"	d
+TR_CHUCK	include-netbsd/clnp.h	373;"	d
+TR_DROPPKT	include-netbsd/clnp.h	369;"	d
+TR_DUPEND	include-netbsd/clnp.h	367;"	d
+TR_DUPPKT	include-netbsd/clnp.h	368;"	d
+TR_MTU	include-netbsd/clnp.h	372;"	d
+TR_RAWLOOP	include-netbsd/clnp.h	376;"	d
+TR_TRIM	include-netbsd/clnp.h	370;"	d
+TSEL	include-netbsd/iso.h	169;"	d
+TTL_EXPREASS	include-netbsd/clnp.h	339;"	d
+TTL_EXPTRANSIT	include-netbsd/clnp.h	338;"	d
+VERY_FAR	topology/spacyc.c	10;"	d	file:
+VERY_FAR	topology/spgrid.c	18;"	d	file:
+VERY_FAR	topology/sprand.c	11;"	d	file:
+VTYPE_ES	isis_spf.h	/^  VTYPE_ES,$/;"	e	enum:vertextype
+VTYPE_IP6REACH_EXTERNAL	isis_spf.h	/^  VTYPE_IP6REACH_EXTERNAL$/;"	e	enum:vertextype
+VTYPE_IP6REACH_INTERNAL	isis_spf.h	/^  VTYPE_IP6REACH_INTERNAL,$/;"	e	enum:vertextype
+VTYPE_IPREACH_EXTERNAL	isis_spf.h	/^  VTYPE_IPREACH_EXTERNAL,$/;"	e	enum:vertextype
+VTYPE_IPREACH_INTERNAL	isis_spf.h	/^  VTYPE_IPREACH_INTERNAL,$/;"	e	enum:vertextype
+VTYPE_IPREACH_TE	isis_spf.h	/^  VTYPE_IPREACH_TE$/;"	e	enum:vertextype
+VTYPE_NONPSEUDO_IS	isis_spf.h	/^  VTYPE_NONPSEUDO_IS,$/;"	e	enum:vertextype
+VTYPE_NONPSEUDO_TE_IS	isis_spf.h	/^  VTYPE_NONPSEUDO_TE_IS,$/;"	e	enum:vertextype
+VTYPE_PSEUDO_IS	isis_spf.h	/^  VTYPE_PSEUDO_IS = 1,$/;"	e	enum:vertextype
+VTYPE_PSEUDO_TE_IS	isis_spf.h	/^  VTYPE_PSEUDO_TE_IS,$/;"	e	enum:vertextype
+WAY3_HELLO	isis_tlv.h	111;"	d
+X	topology/spgrid.c	/^long   X,   \/* horizontal size of grid *\/$/;"	v
+Y	topology/spgrid.c	/^       Y;   \/* vertical size of grid *\/$/;"	v
+YES	topology/spgrid.c	25;"	d	file:
+ZERO_AGE_LIFETIME	isis_constants.h	60;"	d
+_NETISO_ISO_H_	include-netbsd/iso.h	66;"	d
+_ZEBRA_ISIS_ADJACENCY_H	isis_adjacency.h	26;"	d
+_ZEBRA_ISIS_CSM_H	isis_csm.h	25;"	d
+_ZEBRA_ISIS_DR_H	isis_dr.h	25;"	d
+_ZEBRA_ISIS_DYNHN_H	isis_dynhn.h	24;"	d
+_ZEBRA_ISIS_EVENTS_H	isis_events.h	23;"	d
+_ZEBRA_ISIS_FLAGS_H	isis_flags.h	25;"	d
+_ZEBRA_ISIS_LSP_H	isis_lsp.h	25;"	d
+_ZEBRA_ISIS_MISC_H	isis_misc.h	25;"	d
+_ZEBRA_ISIS_NETWORK_H	isis_network.h	25;"	d
+_ZEBRA_ISIS_PDU_H	isis_pdu.h	25;"	d
+_ZEBRA_ISIS_ROUTE_H	isis_route.h	26;"	d
+_ZEBRA_ISIS_SPF_H	isis_spf.h	25;"	d
+_ZEBRA_ISIS_TLV_H	isis_tlv.h	25;"	d
+_ZEBRA_ISIS_TOPOLOGY_SPGRID_H	topology/spgrid.h	27;"	d
+_ZEBRA_ISIS_ZEBRA_H	isis_zebra.h	23;"	d
+_ZEBRA_ISO_CSUM_H	iso_checksum.h	24;"	d
+__BEGIN_DECLS	include-netbsd/iso.h	197;"	d
+__END_DECLS	include-netbsd/iso.h	198;"	d
+__P	include-netbsd/iso.h	196;"	d
+_argc	isis_main.c	/^int _argc;$/;"	v
+_argv	isis_main.c	/^char **_argv;$/;"	v
+_caps_p	isis_main.c	/^zebra_capabilities_t _caps_p[] = {$/;"	v
+_cwd	isis_main.c	/^char _cwd[MAXPATHLEN];$/;"	v
+_envp	isis_main.c	/^char **_envp;$/;"	v
+_progpath	isis_main.c	/^char _progpath[MAXPATHLEN];$/;"	v
+a_f	topology/spgrid.c	/^int    a_f = 0, ax_f = 0, am_f = 0, al_f = 0;$/;"	v
+accept_level	isis_pdu.c	/^accept_level (int level, int circuit_t)$/;"	f	file:
+ack_lsp	isis_pdu.c	/^ack_lsp (struct isis_link_state_hdr *hdr, struct isis_circuit *circuit,$/;"	f
+add_tlv	isis_tlv.c	/^add_tlv (u_char tag, u_char len, u_char * value, struct stream *stream)$/;"	f
+add_to_paths	isis_spf.c	/^add_to_paths (struct isis_spftree *spftree, struct isis_vertex *vertex,$/;"	f	file:
+addr_len	isis_common.h	/^  u_char addr_len;$/;"	m	struct:area_addr
+adj_alloc	isis_adjacency.c	/^adj_alloc (const u_char *id)$/;"	f	file:
+adj_state	isis_adjacency.h	/^  enum isis_adj_state adj_state;	\/* adjacencyState *\/$/;"	m	struct:isis_adjacency	typeref:enum:isis_adjacency::isis_adj_state
+adj_state2string	isis_adjacency.c	/^adj_state2string (int state)$/;"	f	file:
+adj_state_changes	isis_circuit.h	/^  u_int32_t adj_state_changes;	\/* changesInAdjacencyState *\/$/;"	m	struct:isis_circuit
+adj_usage	isis_adjacency.h	/^  enum isis_adj_usage adj_usage;	\/* adjacencyUsage *\/$/;"	m	struct:isis_adjacency	typeref:enum:isis_adjacency::isis_adj_usage
+adjdb	isis_circuit.h	/^  struct list *adjdb[2];	\/* adjacency dbs *\/$/;"	m	struct:isis_bcast_info	typeref:struct:isis_bcast_info::list
+adjinfo2nexthop	isis_route.c	/^adjinfo2nexthop (struct list *nexthops, struct isis_adjacency *adj)$/;"	f	file:
+adjinfo2nexthop6	isis_route.c	/^adjinfo2nexthop6 (struct list *nexthops6, struct isis_adjacency *adj)$/;"	f	file:
+age_out	isis_lsp.h	/^  int age_out;$/;"	m	struct:isis_lsp
+al	topology/spgrid.c	/^       al = 100;           \/* upper bound of the interval *\/$/;"	v
+al_f	topology/spgrid.c	/^int    a_f = 0, ax_f = 0, am_f = 0, al_f = 0;$/;"	v
+allocnode	dict.c	46;"	d	file:
+am	topology/spgrid.c	/^       am = 0,             \/* lower bound of the interval *\/$/;"	v
+am_f	topology/spgrid.c	/^int    a_f = 0, ax_f = 0, am_f = 0, al_f = 0;$/;"	v
+arc	topology/spgrid.c	/^struct arc *arc;$/;"	v	typeref:struct:arc
+arc	topology/spgrid.h	/^struct arc {$/;"	s
+area	isis_circuit.h	/^  struct isis_area *area;	\/* back pointer to the area *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::isis_area
+area	isis_lsp.h	/^  struct isis_area *area;$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::isis_area
+area	isis_spf.h	/^  struct isis_area *area;       \/* back pointer to area *\/$/;"	m	struct:isis_spftree	typeref:struct:isis_spftree::isis_area
+area_addr	isis_common.h	/^  u_char area_addr[20];$/;"	m	struct:area_addr
+area_addr	isis_common.h	/^struct area_addr$/;"	s
+area_addrs	isis_adjacency.h	/^  struct list *area_addrs;		\/* areaAdressesOfNeighbour *\/$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::list
+area_addrs	isis_tlv.h	/^  struct list *area_addrs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+area_addrs	isisd.h	/^  struct list *area_addrs;$/;"	m	struct:isis_area	typeref:struct:isis_area::list
+area_clear_net_title	isisd.c	/^area_clear_net_title (struct vty *vty, const char *net_title)$/;"	f
+area_list	isisd.h	/^  struct list *area_list;	\/* list of IS-IS areas *\/$/;"	m	struct:isis	typeref:struct:isis::list
+area_match	isis_pdu.c	/^area_match (struct list *left, struct list *right)$/;"	f	file:
+area_net_title	isisd.c	/^area_net_title (struct vty *vty, const char *net_title)$/;"	f
+area_passwd	isisd.h	/^  struct isis_passwd area_passwd;$/;"	m	struct:isis_area	typeref:struct:isis_area::isis_passwd
+area_resign_level	isis_events.c	/^area_resign_level (struct isis_area *area, int level)$/;"	f	file:
+area_set_lsp_mtu	isisd.c	/^int area_set_lsp_mtu(struct vty *vty, struct isis_area *area, unsigned int lsp_mtu)$/;"	f	file:
+area_tag	isisd.h	/^  char *area_tag;$/;"	m	struct:isis_area
+args	topology/spgrid.c	/^char   args[30];$/;"	v
+attached_bit	isisd.h	/^  char attached_bit;$/;"	m	struct:isis_area
+auth_info	isis_tlv.h	/^  struct isis_passwd auth_info;$/;"	m	struct:tlvs	typeref:struct:tlvs::isis_passwd
+auth_tlv_length	isis_pdu.c	/^auth_tlv_length (int level, struct isis_circuit *circuit)$/;"	f	file:
+auth_tlv_offset	isis_lsp.h	/^  u_int32_t auth_tlv_offset;    \/* authentication TLV position in the pdu *\/$/;"	m	struct:isis_lsp
+authentication_check	isis_pdu.c	/^authentication_check (struct isis_passwd *remote, struct isis_passwd *local,$/;"	f	file:
+ax	topology/spgrid.c	/^long   ax = 0,             \/* number of additional arcs *\/$/;"	v
+ax_f	topology/spgrid.c	/^int    a_f = 0, ax_f = 0, am_f = 0, al_f = 0;$/;"	v
+bc	isis_circuit.h	/^    struct isis_bcast_info bc;$/;"	m	union:isis_circuit::__anon4	typeref:struct:isis_circuit::__anon4::isis_bcast_info
+build_csnp	isis_pdu.c	/^build_csnp (int level, u_char * start, u_char * stop, struct list *lsps,$/;"	f	file:
+build_psnp	isis_pdu.c	/^build_psnp (int level, struct isis_circuit *circuit, struct list *lsps)$/;"	f	file:
+c_f	topology/spgrid.c	/^int    c_f = 0, cw_f = 0, cm_f = 0, cl_f = 0;$/;"	v
+cfl_dst	include-netbsd/clnp.h	/^	struct iso_addr cfl_dst;\/* destination of the pkt *\/$/;"	m	struct:clnp_fragl	typeref:struct:clnp_fragl::iso_addr
+cfl_frags	include-netbsd/clnp.h	/^	struct clnp_frag *cfl_frags;	\/* linked list of fragments for pkt *\/$/;"	m	struct:clnp_fragl	typeref:struct:clnp_fragl::clnp_frag
+cfl_id	include-netbsd/clnp.h	/^	u_short         cfl_id;	\/* id of the pkt *\/$/;"	m	struct:clnp_fragl
+cfl_last	include-netbsd/clnp.h	/^	u_short         cfl_last;	\/* offset of last byte of packet *\/$/;"	m	struct:clnp_fragl
+cfl_next	include-netbsd/clnp.h	/^	struct clnp_fragl *cfl_next;	\/* next pkt being reassembled *\/$/;"	m	struct:clnp_fragl	typeref:struct:clnp_fragl::clnp_fragl
+cfl_orighdr	include-netbsd/clnp.h	/^	struct mbuf    *cfl_orighdr;	\/* ptr to original header *\/$/;"	m	struct:clnp_fragl	typeref:struct:clnp_fragl::mbuf
+cfl_src	include-netbsd/clnp.h	/^	struct iso_addr cfl_src;\/* source of the pkt *\/$/;"	m	struct:clnp_fragl	typeref:struct:clnp_fragl::iso_addr
+cfl_ttl	include-netbsd/clnp.h	/^	u_char          cfl_ttl;\/* current ttl of pkt *\/$/;"	m	struct:clnp_fragl
+cfr_bytes	include-netbsd/clnp.h	/^	u_int           cfr_bytes;	\/* bytes to shave to get to data *\/$/;"	m	struct:clnp_frag
+cfr_data	include-netbsd/clnp.h	/^	struct mbuf    *cfr_data;	\/* ptr to data for this frag *\/$/;"	m	struct:clnp_frag	typeref:struct:clnp_frag::mbuf
+cfr_first	include-netbsd/clnp.h	/^	u_int           cfr_first;	\/* offset of first byte of this frag *\/$/;"	m	struct:clnp_frag
+cfr_last	include-netbsd/clnp.h	/^	u_int           cfr_last;	\/* offset of last byte of this frag *\/$/;"	m	struct:clnp_frag
+cfr_next	include-netbsd/clnp.h	/^	struct clnp_frag *cfr_next;	\/* next fragment in list *\/$/;"	m	struct:clnp_frag	typeref:struct:clnp_frag::clnp_frag
+checksum	isis_pdu.h	/^  u_int16_t checksum;$/;"	m	struct:esis_fixed_hdr
+checksum	isis_pdu.h	/^  u_int16_t checksum;$/;"	m	struct:isis_link_state_hdr
+checksum	isis_tlv.h	/^  struct checksum *checksum;$/;"	m	struct:tlvs	typeref:struct:tlvs::checksum
+checksum	isis_tlv.h	/^  u_int16_t checksum;$/;"	m	struct:checksum
+checksum	isis_tlv.h	/^  u_int16_t checksum;$/;"	m	struct:lsp_entry
+checksum	isis_tlv.h	/^struct checksum$/;"	s
+children	isis_spf.h	/^  struct list *children;        \/* list of children used for tree dump *\/$/;"	m	struct:isis_vertex	typeref:struct:isis_vertex::list
+circ_type	isis_circuit.h	/^  int circ_type;		\/* type of the physical interface *\/$/;"	m	struct:isis_circuit
+circ_type_config	isis_circuit.h	/^  int circ_type_config;		\/* config type of the physical interface *\/$/;"	m	struct:isis_circuit
+circuit	isis_adjacency.h	/^  struct isis_circuit *circuit;	\/* back pointer *\/$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::isis_circuit
+circuit_commence_level	isis_events.c	/^circuit_commence_level (struct isis_circuit *circuit, int level)$/;"	f	file:
+circuit_id	isis_circuit.h	/^  u_char circuit_id;		\/* l1\/l2 p2p\/bcast CircuitID *\/$/;"	m	struct:isis_circuit
+circuit_list	isisd.h	/^  struct list *circuit_list;	\/* IS-IS circuits *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::list
+circuit_lookup_by_ifp	isis_circuit.c	/^circuit_lookup_by_ifp (struct interface *ifp, struct list *list)$/;"	f
+circuit_resign_level	isis_events.c	/^circuit_resign_level (struct isis_circuit *circuit, int level)$/;"	f	file:
+circuit_scan_by_ifp	isis_circuit.c	/^circuit_scan_by_ifp (struct interface *ifp)$/;"	f
+circuit_state2string	isis_misc.c	/^circuit_state2string (int state)$/;"	f
+circuit_state_changes	isisd.h	/^  u_int32_t circuit_state_changes;$/;"	m	struct:isis_area
+circuit_t	isis_adjacency.h	/^  int circuit_t;		\/* from hello PDU hdr *\/$/;"	m	struct:isis_adjacency
+circuit_t	isis_pdu.h	/^  u_char circuit_t;$/;"	m	struct:isis_lan_hello_hdr
+circuit_t	isis_pdu.h	/^  u_char circuit_t;$/;"	m	struct:isis_p2p_hello_hdr
+circuit_t2string	isis_misc.c	/^circuit_t2string (int circuit_t)$/;"	f
+circuit_type2string	isis_misc.c	/^circuit_type2string (int type)$/;"	f
+circuit_update_nlpids	isis_circuit.c	/^circuit_update_nlpids (struct isis_circuit *circuit)$/;"	f
+cl	topology/spgrid.c	/^       cl = 100;           \/* upper bound of the interval *\/$/;"	v
+cl_f	topology/spgrid.c	/^int    c_f = 0, cw_f = 0, cm_f = 0, cl_f = 0;$/;"	v
+clc_dst	include-netbsd/clnp.h	/^	struct iso_addr clc_dst;\/* destination of packet *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::iso_addr
+clc_firsthop	include-netbsd/clnp.h	/^	struct sockaddr *clc_firsthop;	\/* first hop of packet *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::sockaddr
+clc_flags	include-netbsd/clnp.h	/^	int             clc_flags;	\/* flags passed to clnp_output *\/$/;"	m	struct:clnp_cache
+clc_hdr	include-netbsd/clnp.h	/^	struct mbuf    *clc_hdr;\/* cached pkt hdr (finally)! *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::mbuf
+clc_ifa	include-netbsd/clnp.h	/^	               *clc_ifa;\/* ptr to interface address *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::iso_ifaddr
+clc_ifp	include-netbsd/clnp.h	/^	struct ifnet   *clc_ifp;\/* ptr to interface structure *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::ifnet
+clc_options	include-netbsd/clnp.h	/^	struct mbuf    *clc_options;	\/* ptr to options mbuf *\/$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::mbuf
+clc_rt	include-netbsd/clnp.h	/^	struct rtentry *clc_rt;	\/* ptr to rtentry (points into the route$/;"	m	struct:clnp_cache	typeref:struct:clnp_cache::rtentry
+clc_segoff	include-netbsd/clnp.h	/^	int             clc_segoff;	\/* offset of seg part of header *\/$/;"	m	struct:clnp_cache
+clear_isis_neighbor_common	isisd.c	/^clear_isis_neighbor_common (struct vty *vty, const char *id)$/;"	f
+clnl_fixed	include-netbsd/clnp.h	117;"	d
+clnp_cache	include-netbsd/clnp.h	/^struct clnp_cache {$/;"	s
+clnp_er_codes	include-netbsd/clnp.h	/^u_char          clnp_er_codes[CLNP_ERRORS] = {$/;"	v
+clnp_fixed	include-netbsd/clnp.h	/^struct clnp_fixed {$/;"	s
+clnp_frag	include-netbsd/clnp.h	/^struct clnp_frag {$/;"	s
+clnp_fragl	include-netbsd/clnp.h	/^struct clnp_fragl {$/;"	s
+clnp_optidx	include-netbsd/clnp.h	/^struct clnp_optidx {$/;"	s
+clnp_segment	include-netbsd/clnp.h	/^struct clnp_segment {$/;"	s
+cm	topology/spgrid.c	/^long   cm = 0,             \/* lower bound of the interval *\/$/;"	v
+cm_f	topology/spgrid.c	/^int    c_f = 0, cw_f = 0, cm_f = 0, cl_f = 0;$/;"	v
+cnf_cksum_lsb	include-netbsd/clnp.h	/^	u_char          cnf_cksum_lsb;	\/* checksum low byte *\/$/;"	m	struct:clnp_fixed
+cnf_cksum_msb	include-netbsd/clnp.h	/^	u_char          cnf_cksum_msb;	\/* checksum high byte *\/$/;"	m	struct:clnp_fixed
+cnf_hdr_len	include-netbsd/clnp.h	/^	u_char          cnf_hdr_len;	\/* length indicator (octets) *\/$/;"	m	struct:clnp_fixed
+cnf_proto_id	include-netbsd/clnp.h	/^	u_char          cnf_proto_id;	\/* network layer protocol identifier *\/$/;"	m	struct:clnp_fixed
+cnf_seglen_lsb	include-netbsd/clnp.h	/^	u_char          cnf_seglen_lsb;	\/* pdu segment length (octets) low$/;"	m	struct:clnp_fixed
+cnf_seglen_msb	include-netbsd/clnp.h	/^	u_char          cnf_seglen_msb;	\/* pdu segment length (octets) high$/;"	m	struct:clnp_fixed
+cnf_ttl	include-netbsd/clnp.h	/^	u_char          cnf_ttl;\/* lifetime (500 milliseconds) *\/$/;"	m	struct:clnp_fixed
+cnf_type	include-netbsd/clnp.h	/^	u_char          cnf_type;	\/* type code *\/$/;"	m	struct:clnp_fixed
+cnf_vers	include-netbsd/clnp.h	/^	u_char          cnf_vers;	\/* version\/protocol identifier$/;"	m	struct:clnp_fixed
+cng_id	include-netbsd/clnp.h	/^	u_short         cng_id;	\/* data unit identifier *\/$/;"	m	struct:clnp_segment
+cng_off	include-netbsd/clnp.h	/^	u_short         cng_off;\/* segment offset *\/$/;"	m	struct:clnp_segment
+cng_tot_len	include-netbsd/clnp.h	/^	u_short         cng_tot_len;	\/* total length *\/$/;"	m	struct:clnp_segment
+cni_er_reason	include-netbsd/clnp.h	/^	u_char          cni_er_reason;	\/* reason from ER pdu option *\/$/;"	m	struct:clnp_optidx
+cni_esct	include-netbsd/clnp.h	/^	u_short         cni_esct;	\/* value from ISH ESCT option *\/$/;"	m	struct:clnp_optidx
+cni_netmask_len	include-netbsd/clnp.h	/^	char            cni_netmask_len;	\/* length of entire netmask$/;"	m	struct:clnp_optidx
+cni_netmaskp	include-netbsd/clnp.h	/^	u_short         cni_netmaskp;	\/* ptr to beginning of netmask option *\/$/;"	m	struct:clnp_optidx
+cni_priorp	include-netbsd/clnp.h	/^	char            cni_priorp;	\/* ptr to priority option *\/$/;"	m	struct:clnp_optidx
+cni_qos_formatp	include-netbsd/clnp.h	/^	u_short         cni_qos_formatp;	\/* ptr to format of qos$/;"	m	struct:clnp_optidx
+cni_qos_len	include-netbsd/clnp.h	/^	char            cni_qos_len;	\/* length of entire qos option *\/$/;"	m	struct:clnp_optidx
+cni_recrt_len	include-netbsd/clnp.h	/^	char            cni_recrt_len;	\/* length of entire recrt option *\/$/;"	m	struct:clnp_optidx
+cni_recrtp	include-netbsd/clnp.h	/^	u_short         cni_recrtp;	\/* ptr to beginning of recrt option *\/$/;"	m	struct:clnp_optidx
+cni_secure_len	include-netbsd/clnp.h	/^	char            cni_secure_len;	\/* length of entire security option *\/$/;"	m	struct:clnp_optidx
+cni_securep	include-netbsd/clnp.h	/^	u_short         cni_securep;	\/* ptr to start of security option *\/$/;"	m	struct:clnp_optidx
+cni_snpamask_len	include-netbsd/clnp.h	/^	char            cni_snpamask_len;	\/* length of entire snpamask$/;"	m	struct:clnp_optidx
+cni_snpamaskp	include-netbsd/clnp.h	/^	u_short         cni_snpamaskp;	\/* ptr to start of snpamask option *\/$/;"	m	struct:clnp_optidx
+cni_srcrt_len	include-netbsd/clnp.h	/^	u_short         cni_srcrt_len;	\/* length of entire src rt option *\/$/;"	m	struct:clnp_optidx
+cni_srcrt_s	include-netbsd/clnp.h	/^	u_short         cni_srcrt_s;	\/* offset of start of src rt option *\/$/;"	m	struct:clnp_optidx
+color	dict.c	38;"	d	file:
+compare	dict.c	45;"	d	file:
+comparef	dict.c	/^static int comparef(const void *key1, const void *key2)$/;"	f	file:
+config_default	isis_main.c	/^char config_default[] = SYSCONFDIR ISISD_DEFAULT_CONFIG;$/;"	v
+config_file	isis_main.c	/^char *config_file = NULL;$/;"	v
+config_write_debug	isisd.c	/^config_write_debug (struct vty *vty)$/;"	f	file:
+construct	dict.c	/^static void construct(dict_t *d)$/;"	f	file:
+context	dict.c	48;"	d	file:
+control	isis_tlv.h	/^  u_char control;$/;"	m	struct:te_ipv4_reachability
+control_info	isis_tlv.h	/^  u_char control_info;$/;"	m	struct:ipv6_reachability
+cost	isis_route.h	/^  u_int32_t cost;$/;"	m	struct:isis_route_info
+count	isis_common.h	/^  u_char count;$/;"	m	struct:nlpids
+count	topology/spgrid.c	/^       dl, dx, xn, yyn, count,$/;"	v
+csm_eventstr	isis_csm.c	/^static const char *csm_eventstr[] = {$/;"	v	file:
+csm_statestr	isis_csm.c	/^static const char *csm_statestr[] = {$/;"	v	file:
+csnp_interval	isis_circuit.h	/^  u_int16_t csnp_interval[2];	\/* level-1 csnp-interval in seconds *\/$/;"	m	struct:isis_circuit
+ctrl_pdus_rxed	isis_circuit.h	/^  u_int32_t ctrl_pdus_rxed;	\/* controlPDUsReceived *\/$/;"	m	struct:isis_circuit
+ctrl_pdus_txed	isis_circuit.h	/^  u_int32_t ctrl_pdus_txed;	\/* controlPDUsSent *\/$/;"	m	struct:isis_circuit
+cw	topology/spgrid.c	/^int    cw = DOUBLE_CYCLE;  \/* type of spanning graph *\/$/;"	v
+cw_f	topology/spgrid.c	/^int    c_f = 0, cw_f = 0, cm_f = 0, cl_f = 0;$/;"	v
+d_N	isis_spf.h	/^  u_int32_t d_N;		\/* d(N) Distance from this IS      *\/$/;"	m	struct:isis_vertex
+daemon_mode	isis_main.c	/^int daemon_mode = 0;$/;"	v
+data	dict.c	40;"	d	file:
+datestring	isis_misc.c	/^char datestring[20];$/;"	v
+debug_node	isisd.c	/^static struct cmd_node debug_node = {$/;"	v	typeref:struct:cmd_node	file:
+debugs	isisd.h	/^  u_int32_t debugs;		\/* bitmap for debug *\/$/;"	m	struct:isis
+del_addr	isis_pdu.c	/^del_addr (void *val)$/;"	f	file:
+del_node	dict.c	/^static void del_node(dnode_t *n, void *c)$/;"	f	file:
+depth	isis_route.h	/^  u_int32_t depth;$/;"	m	struct:isis_route_info
+depth	isis_spf.h	/^  u_int16_t depth;		\/* The depth in the imaginary tree *\/$/;"	m	struct:isis_vertex
+desig_changes	isis_circuit.h	/^  u_int32_t desig_changes[2];	\/* lanLxDesignatedIntermediateSystemChanges *\/$/;"	m	struct:isis_circuit
+dict_alloc_insert	dict.c	/^int dict_alloc_insert(dict_t *dict, const void *key, void *data)$/;"	f
+dict_allocnode	dict.h	/^    dnode_alloc_t dict_allocnode;$/;"	m	struct:dict_t
+dict_allow_dupes	dict.c	/^void dict_allow_dupes(dict_t *dict)$/;"	f
+dict_clear	dict.c	/^static void dict_clear(dict_t *dict)$/;"	f	file:
+dict_color	dict.h	/^    dnode_color_t dict_color;$/;"	m	struct:dnode_t
+dict_comp_t	dict.h	/^typedef int (*dict_comp_t)(const void *, const void *);$/;"	t
+dict_compare	dict.h	/^    dict_comp_t dict_compare;$/;"	m	struct:dict_t
+dict_contains	dict.c	/^int dict_contains(dict_t *dict, dnode_t *node)$/;"	f
+dict_context	dict.h	/^    void *dict_context;$/;"	m	struct:dict_t
+dict_count	dict.c	/^dictcount_t dict_count(dict_t *dict)$/;"	f
+dict_count	dict.c	911;"	d	file:
+dict_count	dict.h	113;"	d
+dict_create	dict.c	/^dict_t *dict_create(dictcount_t maxcount, dict_comp_t comp)$/;"	f
+dict_data	dict.h	/^    void *dict_data;$/;"	m	struct:dnode_t
+dict_delete	dict.c	/^dnode_t *dict_delete(dict_t *dict, dnode_t *delete)$/;"	f
+dict_delete_free	dict.c	/^void dict_delete_free(dict_t *dict, dnode_t *node)$/;"	f
+dict_destroy	dict.c	/^void dict_destroy(dict_t *dict)$/;"	f
+dict_dictptr	dict.h	/^    dict_t *dict_dictptr;$/;"	m	struct:dict_load_t
+dict_dupes	dict.h	/^    int dict_dupes;$/;"	m	struct:dict_t
+dict_first	dict.c	/^dnode_t *dict_first(dict_t *dict)$/;"	f
+dict_free	dict.c	/^void dict_free(dict_t *dict)$/;"	f
+dict_free_nodes	dict.c	/^void dict_free_nodes(dict_t *dict)$/;"	f
+dict_freenode	dict.h	/^    dnode_free_t dict_freenode;$/;"	m	struct:dict_t
+dict_init	dict.c	/^dict_t *dict_init(dict_t *dict, dictcount_t maxcount, dict_comp_t comp)$/;"	f
+dict_init_like	dict.c	/^void dict_init_like(dict_t *dict, const dict_t *template)$/;"	f
+dict_insert	dict.c	/^void dict_insert(dict_t *dict, dnode_t *node, const void *key)$/;"	f
+dict_isempty	dict.c	/^int dict_isempty(dict_t *dict)$/;"	f
+dict_isempty	dict.c	912;"	d	file:
+dict_isempty	dict.h	114;"	d
+dict_isfull	dict.c	/^int dict_isfull(dict_t *dict)$/;"	f
+dict_isfull	dict.c	913;"	d	file:
+dict_isfull	dict.h	112;"	d
+dict_key	dict.h	/^    const void *dict_key;$/;"	m	struct:dnode_t
+dict_last	dict.c	/^dnode_t *dict_last(dict_t *dict)$/;"	f
+dict_left	dict.h	/^    struct dnode_t *dict_left;$/;"	m	struct:dnode_t	typeref:struct:dnode_t::dnode_t
+dict_load_begin	dict.c	/^void dict_load_begin(dict_load_t *load, dict_t *dict)$/;"	f
+dict_load_end	dict.c	/^void dict_load_end(dict_load_t *load)$/;"	f
+dict_load_next	dict.c	/^void dict_load_next(dict_load_t *load, dnode_t *newnode, const void *key)$/;"	f
+dict_load_t	dict.h	/^typedef struct dict_load_t {$/;"	s
+dict_load_t	dict.h	/^} dict_load_t;$/;"	t	typeref:struct:dict_load_t
+dict_lookup	dict.c	/^dnode_t *dict_lookup(dict_t *dict, const void *key)$/;"	f
+dict_lower_bound	dict.c	/^dnode_t *dict_lower_bound(dict_t *dict, const void *key)$/;"	f
+dict_maxcount	dict.h	/^    dictcount_t dict_maxcount;$/;"	m	struct:dict_t
+dict_merge	dict.c	/^void dict_merge(dict_t *dest, dict_t *source)$/;"	f
+dict_next	dict.c	/^dnode_t *dict_next(dict_t *dict, dnode_t *curr)$/;"	f
+dict_nil	dict.c	54;"	d	file:
+dict_nilnode	dict.h	/^    dnode_t dict_nilnode;$/;"	m	struct:dict_load_t
+dict_nilnode	dict.h	/^    dnode_t dict_nilnode;$/;"	m	struct:dict_t
+dict_nodecount	dict.h	/^    dictcount_t dict_nodecount;$/;"	m	struct:dict_t
+dict_parent	dict.h	/^    struct dnode_t *dict_parent;$/;"	m	struct:dnode_t	typeref:struct:dnode_t::dnode_t
+dict_prev	dict.c	/^dnode_t *dict_prev(dict_t *dict, dnode_t *curr)$/;"	f
+dict_process	dict.c	/^void dict_process(dict_t *dict, void *context, dnode_process_t function)$/;"	f
+dict_right	dict.h	/^    struct dnode_t *dict_right;$/;"	m	struct:dnode_t	typeref:struct:dnode_t::dnode_t
+dict_root	dict.c	53;"	d	file:
+dict_set_allocator	dict.c	/^void dict_set_allocator(dict_t *dict, dnode_alloc_t al,$/;"	f
+dict_similar	dict.c	/^int dict_similar(const dict_t *left, const dict_t *right)$/;"	f
+dict_t	dict.h	/^typedef struct dict_t {$/;"	s
+dict_t	dict.h	/^} dict_t;$/;"	t	typeref:struct:dict_t
+dict_upper_bound	dict.c	/^dnode_t *dict_upper_bound(dict_t *dict, const void *key)$/;"	f
+dict_verify	dict.c	/^int dict_verify(dict_t *dict)$/;"	f
+dictcount_t	dict.h	/^typedef unsigned long dictcount_t;$/;"	t
+dictptr	dict.c	51;"	d	file:
+dij	topology/spgrid.c	/^       dij;$/;"	v
+dis	isis_adjacency.h	/^  int dis;			\/* is our neighbor the DIS ? *\/$/;"	m	struct:isis_dis_record
+dis_record	isis_adjacency.h	/^  struct isis_dis_record dis_record[DIS_RECORDS * ISIS_LEVELS];$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::isis_dis_record
+discard_buff	isis_pfpacket.c	/^static uint8_t discard_buff[8192];$/;"	v	file:
+dischanges	isis_adjacency.h	/^  int dischanges[ISIS_LEVELS];		\/* how many DIS changes ? *\/$/;"	m	struct:isis_adjacency
+distance	isis_redist.h	/^  u_char distance;$/;"	m	struct:isis_ext_info
+distance	topology/spgrid.h	/^  long distance;$/;"	m	struct:arc
+dl	topology/spgrid.c	/^       dl, dx, xn, yyn, count,$/;"	v
+dlpi_ctl	isis_dlpi.c	/^static t_uscalar_t dlpi_ctl[1024];	\/* DLPI control messages *\/$/;"	v	file:
+dlpiaddr	isis_dlpi.c	/^dlpiaddr (int fd, u_char *addr)$/;"	f	file:
+dlpiattach	isis_dlpi.c	/^dlpiattach (int fd, int unit)$/;"	f	file:
+dlpibind	isis_dlpi.c	/^dlpibind (int fd)$/;"	f	file:
+dlpiinfo	isis_dlpi.c	/^dlpiinfo (int fd)$/;"	f	file:
+dlpimcast	isis_dlpi.c	/^dlpimcast (int fd, const u_char *mcaddr)$/;"	f	file:
+dlpiok	isis_dlpi.c	/^dlpiok (int fd, t_uscalar_t oprim)$/;"	f	file:
+dlpiopen	isis_dlpi.c	/^dlpiopen (const char *devpath, ssize_t *acklen)$/;"	f	file:
+dlpirctl	isis_dlpi.c	/^dlpirctl (int fd)$/;"	f	file:
+dlpisend	isis_dlpi.c	/^dlpisend (int fd, const void *cbuf, size_t cbuflen,$/;"	f	file:
+dnode_alloc	dict.c	/^static dnode_t *dnode_alloc(void *context)$/;"	f	file:
+dnode_alloc_t	dict.h	/^typedef dnode_t *(*dnode_alloc_t)(void *);$/;"	t
+dnode_black	dict.h	/^typedef enum { dnode_red, dnode_black } dnode_color_t;$/;"	e	enum:__anon3
+dnode_color_t	dict.h	/^typedef enum { dnode_red, dnode_black } dnode_color_t;$/;"	t	typeref:enum:__anon3
+dnode_create	dict.c	/^dnode_t *dnode_create(void *data)$/;"	f
+dnode_destroy	dict.c	/^void dnode_destroy(dnode_t *dnode)$/;"	f
+dnode_free	dict.c	/^static void dnode_free(dnode_t *node, void *context)$/;"	f	file:
+dnode_free_t	dict.h	/^typedef void (*dnode_free_t)(dnode_t *, void *);$/;"	t
+dnode_get	dict.c	/^void *dnode_get(dnode_t *dnode)$/;"	f
+dnode_get	dict.c	914;"	d	file:
+dnode_get	dict.h	115;"	d
+dnode_getkey	dict.c	/^const void *dnode_getkey(dnode_t *dnode)$/;"	f
+dnode_getkey	dict.c	916;"	d	file:
+dnode_getkey	dict.h	116;"	d
+dnode_init	dict.c	/^dnode_t *dnode_init(dnode_t *dnode, void *data)$/;"	f
+dnode_is_in_a_dict	dict.c	/^int dnode_is_in_a_dict(dnode_t *dnode)$/;"	f
+dnode_process_t	dict.h	/^typedef void (*dnode_process_t)(dict_t *, dnode_t *, void *);$/;"	t
+dnode_put	dict.c	/^void dnode_put(dnode_t *dnode, void *data)$/;"	f
+dnode_put	dict.c	915;"	d	file:
+dnode_put	dict.h	117;"	d
+dnode_red	dict.h	/^typedef enum { dnode_red, dnode_black } dnode_color_t;$/;"	e	enum:__anon3
+dnode_t	dict.h	/^typedef struct dnode_t {$/;"	s
+dnode_t	dict.h	/^} dnode_t;$/;"	t	typeref:struct:dnode_t
+domain_passwd	isisd.h	/^  struct isis_passwd domain_passwd;$/;"	m	struct:isis_area	typeref:struct:isis_area::isis_passwd
+dotformat2buff	isis_misc.c	/^dotformat2buff (u_char * buff, const char * dotted)$/;"	f
+dupes	dict.c	49;"	d	file:
+dupstring	dict.c	/^static char *dupstring(char *str)$/;"	f	file:
+dx	topology/spgrid.c	/^       dl, dx, xn, yyn, count,$/;"	v
+dyn_cache	isis_dynhn.c	/^struct list *dyn_cache = NULL;$/;"	v	typeref:struct:list
+dyn_cache_cleanup	isis_dynhn.c	/^dyn_cache_cleanup (struct thread *thread)$/;"	f	file:
+dyn_cache_init	isis_dynhn.c	/^dyn_cache_init (void)$/;"	f
+dynhn_find_by_id	isis_dynhn.c	/^dynhn_find_by_id (const u_char * id)$/;"	f
+dynhn_find_by_name	isis_dynhn.c	/^dynhn_find_by_name (const char *hostname)$/;"	f
+dynhn_print_all	isis_dynhn.c	/^dynhn_print_all (struct vty *vty)$/;"	f
+dynhostname	isisd.h	/^  char dynhostname;$/;"	m	struct:isis_area
+es_badcsum	include-netbsd/esis.h	/^	u_short         es_badcsum;	\/* incorrect checksum *\/$/;"	m	struct:esis_stat
+es_badtype	include-netbsd/esis.h	/^	u_short         es_badtype;	\/* unknown pdu type field *\/$/;"	m	struct:esis_stat
+es_badvers	include-netbsd/esis.h	/^	u_short         es_badvers;	\/* incorrect version number *\/$/;"	m	struct:esis_stat
+es_eshrcvd	include-netbsd/esis.h	/^	u_short         es_eshrcvd;	\/* ESH rcvd *\/$/;"	m	struct:esis_stat
+es_eshsent	include-netbsd/esis.h	/^	u_short         es_eshsent;	\/* ESH sent *\/$/;"	m	struct:esis_stat
+es_ishrcvd	include-netbsd/esis.h	/^	u_short         es_ishrcvd;	\/* ISH rcvd *\/$/;"	m	struct:esis_stat
+es_ishsent	include-netbsd/esis.h	/^	u_short         es_ishsent;	\/* ISH sent *\/$/;"	m	struct:esis_stat
+es_neigh	isis_tlv.h	/^struct es_neigh$/;"	s
+es_neighs	isis_tlv.h	/^  struct list *es_neighs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+es_nomem	include-netbsd/esis.h	/^	u_short         es_nomem;	\/* insufficient memory to send hello *\/$/;"	m	struct:esis_stat
+es_rdrcvd	include-netbsd/esis.h	/^	u_short         es_rdrcvd;	\/* RD rcvd *\/$/;"	m	struct:esis_stat
+es_rdsent	include-netbsd/esis.h	/^	u_short         es_rdsent;	\/* RD sent *\/$/;"	m	struct:esis_stat
+es_toosmall	include-netbsd/esis.h	/^	u_short         es_toosmall;	\/* packet too small *\/$/;"	m	struct:esis_stat
+esis_cksum_lsb	include-netbsd/esis.h	/^	u_char          esis_cksum_lsb;	\/* checksum low byte *\/$/;"	m	struct:esis_fixed
+esis_cksum_msb	include-netbsd/esis.h	/^	u_char          esis_cksum_msb;	\/* checksum high byte *\/$/;"	m	struct:esis_fixed
+esis_fixed	include-netbsd/esis.h	/^struct esis_fixed {$/;"	s
+esis_fixed_hdr	isis_pdu.h	/^struct esis_fixed_hdr$/;"	s
+esis_hdr_len	include-netbsd/esis.h	/^	u_char          esis_hdr_len;	\/* length indicator (octets) *\/$/;"	m	struct:esis_fixed
+esis_ht_lsb	include-netbsd/esis.h	/^	u_char          esis_ht_lsb;	\/* holding time (seconds) low byte *\/$/;"	m	struct:esis_fixed
+esis_ht_msb	include-netbsd/esis.h	/^	u_char          esis_ht_msb;	\/* holding time (seconds) high byte *\/$/;"	m	struct:esis_fixed
+esis_proto_id	include-netbsd/esis.h	/^	u_char          esis_proto_id;	\/* network layer protocol identifier *\/$/;"	m	struct:esis_fixed
+esis_res1	include-netbsd/esis.h	/^	u_char          esis_res1;	\/* reserved *\/$/;"	m	struct:esis_fixed
+esis_stat	include-netbsd/esis.h	/^struct esis_stat esis_stat;$/;"	v	typeref:struct:esis_stat
+esis_stat	include-netbsd/esis.h	/^struct esis_stat {$/;"	s
+esis_type	include-netbsd/esis.h	/^	u_char          esis_type;	\/* type code *\/$/;"	m	struct:esis_fixed
+esis_vers	include-netbsd/esis.h	/^	u_char          esis_vers;	\/* version\/protocol identifier$/;"	m	struct:esis_fixed
+ext	topology/spgrid.c	/^int    ext=0;$/;"	v
+ext_domain	isis_circuit.h	/^  char ext_domain;		\/* externalDomain   (boolean) *\/$/;"	m	struct:isis_circuit
+ext_info	isisd.h	/^  struct route_table *ext_info[REDIST_PROTOCOL_COUNT];$/;"	m	struct:isis	typeref:struct:isis::route_table
+ext_reach	isisd.h	/^  struct route_table *ext_reach[REDIST_PROTOCOL_COUNT][ISIS_LEVELS];$/;"	m	struct:isis_area	typeref:struct:isis_area::route_table
+fd	isis_circuit.h	/^  int fd;			\/* IS-IS l1\/2 socket *\/$/;"	m	struct:isis_circuit
+fill_fixed_hdr	isis_pdu.c	/^fill_fixed_hdr (struct isis_fixed_hdr *hdr, u_char pdu_type)$/;"	f
+fill_fixed_hdr_andstream	isis_pdu.c	/^fill_fixed_hdr_andstream (struct isis_fixed_hdr *hdr, u_char pdu_type,$/;"	f	file:
+first_es_neigh	isis_tlv.h	/^  u_char first_es_neigh[ISIS_SYS_ID_LEN];$/;"	m	struct:es_neigh
+flag	isis_route.h	/^  u_char flag;$/;"	m	struct:isis_route_info
+flags	isis_circuit.h	/^  u_char flags;$/;"	m	struct:isis_circuit
+flags	isis_flags.h	/^struct flags$/;"	s
+flags	isisd.h	/^  struct flags flags;$/;"	m	struct:isis_area	typeref:struct:isis_area::flags
+flags_any_set	isis_flags.c	/^flags_any_set (u_int32_t * flags)$/;"	f
+flags_free_index	isis_flags.c	/^flags_free_index (struct flags *flags, long int index)$/;"	f
+flags_get_index	isis_flags.c	/^flags_get_index (struct flags *flags)$/;"	f
+flags_initialize	isis_flags.c	/^flags_initialize (struct flags *flags)$/;"	f
+flaps	isis_adjacency.h	/^  int flaps;			\/* number of adjacency flaps  *\/$/;"	m	struct:isis_adjacency
+frags	isis_lsp.h	/^    struct list *frags;$/;"	m	union:isis_lsp::__anon2	typeref:struct:isis_lsp::__anon2::list
+free_arc	topology/spgrid.c	/^free_arc   (void *val) {$/;"	f
+free_idcs	isis_flags.h	/^  struct list *free_idcs;$/;"	m	struct:flags	typeref:struct:flags::list
+free_nodes	dict.c	/^static void free_nodes(dict_t *dict, dnode_t *node, dnode_t *nil)$/;"	f	file:
+free_tlv	isis_tlv.c	/^free_tlv (void *val)$/;"	f
+free_tlvs	isis_tlv.c	/^free_tlvs (struct tlvs *tlvs)$/;"	f
+freenode	dict.c	47;"	d	file:
+from_node	topology/spgrid.h	/^  long from_node;$/;"	m	struct:arc
+from_topology	isis_lsp.h	/^  int from_topology;$/;"	m	struct:isis_lsp
+gen_spgrid_topology	topology/spgrid.c	/^gen_spgrid_topology (struct vty *vty, struct list *topology)$/;"	f
+get_ext_info	isis_redist.c	/^get_ext_info(struct isis *i, int family)$/;"	f	file:
+get_ext_reach	isis_redist.c	/^get_ext_reach(struct isis_area *area, int family, int level)$/;"	f
+get_max_lsp_count	isis_pdu.c	/^get_max_lsp_count (uint16_t size)$/;"	f	file:
+get_redist_settings	isis_redist.c	/^get_redist_settings(struct isis_area *area, int family, int type, int level)$/;"	f	file:
+graph_type	topology/spgrid.c	/^const char   *graph_type[] =  {$/;"	v
+hello_interval	isis_circuit.h	/^  u_int32_t hello_interval[2];	\/* l1HelloInterval in msecs *\/$/;"	m	struct:isis_circuit
+hello_multiplier	isis_circuit.h	/^  u_int16_t hello_multiplier[2];	\/* l1HelloMultiplier *\/$/;"	m	struct:isis_circuit
+help	topology/spgrid.c	/^help (struct vty *vty) {$/;"	f
+hhelp	topology/spgrid.c	/^hhelp (struct vty *vty) {$/;"	f
+hold_time	isis_adjacency.h	/^  u_int16_t hold_time;		\/* entryRemainingTime *\/$/;"	m	struct:isis_adjacency
+hold_time	isis_pdu.h	/^  u_int16_t hold_time;$/;"	m	struct:isis_lan_hello_hdr
+hold_time	isis_pdu.h	/^  u_int16_t hold_time;$/;"	m	struct:isis_p2p_hello_hdr
+holdtime	isis_pdu.h	/^  u_int16_t holdtime;$/;"	m	struct:esis_fixed_hdr
+hostname	isis_common.h	/^struct hostname$/;"	s
+hostname	isis_tlv.h	/^  struct hostname *hostname;$/;"	m	struct:tlvs	typeref:struct:tlvs::hostname
+i	topology/spgrid.c	/^       i,$/;"	v
+i0	topology/spgrid.c	/^       i0,$/;"	v
+i_f	topology/spgrid.c	/^int    i_f = 0, ip_f = 0, ix_f = 0, ih_f = 0,$/;"	v
+id	isis_dynhn.h	/^  u_char id[ISIS_SYS_ID_LEN];$/;"	m	struct:isis_dynhn
+id	isis_spf.h	/^    u_char id[ISIS_SYS_ID_LEN + 1];$/;"	m	union:isis_vertex::__anon5
+id	isis_tlv.h	/^  struct in_addr id;$/;"	m	struct:te_router_id	typeref:struct:te_router_id::in_addr
+id_len	isis_pdu.h	/^  u_char id_len;$/;"	m	struct:esis_fixed_hdr
+id_len	isis_pdu.h	/^  u_char id_len;$/;"	m	struct:isis_fixed_hdr
+idrp	isis_pdu.h	/^  u_char idrp;$/;"	m	struct:esis_fixed_hdr
+idrp	isis_pdu.h	/^  u_char idrp;$/;"	m	struct:isis_fixed_hdr
+idrp_info	isis_tlv.h	/^struct idrp_info$/;"	s
+idx	isis_circuit.h	/^  int idx;			\/* idx in S[RM|SN] flags *\/$/;"	m	struct:isis_circuit
+ifindex	isis_route.h	/^  ifindex_t ifindex;$/;"	m	struct:isis_nexthop
+ifindex	isis_route.h	/^  ifindex_t ifindex;$/;"	m	struct:isis_nexthop6
+ih	topology/spgrid.c	/^       ih = 1,        \/* step between two layeres *\/$/;"	v
+ih_f	topology/spgrid.c	/^int    i_f = 0, ip_f = 0, ix_f = 0, ih_f = 0,$/;"	v
+il	topology/spgrid.c	/^       il = 10000,    \/* upper bound of the interval *\/$/;"	v
+il_f	topology/spgrid.c	/^       im_f = 0, il_f = 0, in_f = 0, is_f = 0;$/;"	v
+im	topology/spgrid.c	/^       im = 1000;     \/* lower bound of the interval *\/$/;"	v
+im_f	topology/spgrid.c	/^       im_f = 0, il_f = 0, in_f = 0, is_f = 0;$/;"	v
+in	topology/spgrid.c	/^double in = 1,        \/* l *=  in * |x1-x2| *\/$/;"	v
+in_f	topology/spgrid.c	/^       im_f = 0, il_f = 0, in_f = 0, is_f = 0;$/;"	v
+init_circ_list	isisd.h	/^  struct list *init_circ_list;$/;"	m	struct:isis	typeref:struct:isis::list
+init_failures	isis_circuit.h	/^  u_int32_t init_failures;	\/* intialisationFailures *\/$/;"	m	struct:isis_circuit
+init_rand	topology/random.c	/^void init_rand ( init_seed )$/;"	f
+init_spt	isis_spf.c	/^init_spt (struct isis_spftree *spftree)$/;"	f	file:
+input_t	dict.c	/^typedef char input_t[256];$/;"	t	file:
+installed	isis_lsp.h	/^  time_t installed;$/;"	m	struct:isis_lsp
+interface	isis_circuit.h	/^  struct interface *interface;	\/* interface info from z *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::interface
+interface_node	isis_circuit.c	/^struct cmd_node interface_node = {$/;"	v	typeref:struct:cmd_node
+internal_seed	topology/random.c	/^unsigned long internal_seed;$/;"	v
+ip	isis_route.h	/^  struct in_addr ip;$/;"	m	struct:isis_nexthop	typeref:struct:isis_nexthop::in_addr
+ip	topology/spgrid.c	/^int    ip = NO;       \/* to mess or not to mess *\/$/;"	v
+ip6	isis_route.h	/^  struct in6_addr ip6;$/;"	m	struct:isis_nexthop6	typeref:struct:isis_nexthop6::in6_addr
+ip_addrs	isis_circuit.h	/^  struct list *ip_addrs;	\/* our IP addresses *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::list
+ip_circuits	isisd.h	/^  int ip_circuits;$/;"	m	struct:isis_area
+ip_f	topology/spgrid.c	/^int    i_f = 0, ip_f = 0, ix_f = 0, ih_f = 0,$/;"	v
+ip_match	isis_pdu.c	/^ip_match (struct list *left, struct list *right)$/;"	f	file:
+ip_router	isis_circuit.h	/^  int ip_router;		\/* Route IP ? *\/$/;"	m	struct:isis_circuit
+ip_same_subnet	isis_pdu.c	/^ip_same_subnet (struct prefix_ipv4 *ip1, struct in_addr *ip2)$/;"	f	file:
+ipv4_addrs	isis_adjacency.h	/^  struct list *ipv4_addrs;$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::list
+ipv4_addrs	isis_tlv.h	/^  struct list *ipv4_addrs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+ipv4_ext_reachs	isis_tlv.h	/^  struct list *ipv4_ext_reachs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+ipv4_int_reachs	isis_tlv.h	/^  struct list *ipv4_int_reachs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+ipv4_reachability	isis_tlv.h	/^struct ipv4_reachability$/;"	s
+ipv6_addrs	isis_adjacency.h	/^  struct list *ipv6_addrs;$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::list
+ipv6_addrs	isis_tlv.h	/^  struct list *ipv6_addrs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+ipv6_circuits	isisd.h	/^  int ipv6_circuits;$/;"	m	struct:isis_area
+ipv6_link	isis_circuit.h	/^  struct list *ipv6_link;	\/* our link local IPv6 addresses *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::list
+ipv6_non_link	isis_circuit.h	/^  struct list *ipv6_non_link;	\/* our non-link local IPv6 addresses *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::list
+ipv6_reachability	isis_tlv.h	/^struct ipv6_reachability$/;"	s
+ipv6_reachs	isis_tlv.h	/^  struct list *ipv6_reachs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+ipv6_router	isis_circuit.h	/^  int ipv6_router;		\/* Route IPv6 ? *\/$/;"	m	struct:isis_circuit
+irand	topology/random.c	/^static long irand ()$/;"	f	file:
+is	topology/spgrid.c	/^       is = 0;        \/* l *=  is * |x1-x2|^2 *\/$/;"	v
+is_default	isis_redist.c	/^is_default(struct prefix *p)$/;"	f	file:
+is_dr	isis_circuit.h	/^  char is_dr[2];		\/* Are we level x DR ? *\/$/;"	m	struct:isis_bcast_info
+is_f	topology/spgrid.c	/^       im_f = 0, il_f = 0, in_f = 0, is_f = 0;$/;"	v
+is_neigh	isis_tlv.h	/^struct is_neigh$/;"	s
+is_neighs	isis_tlv.h	/^  struct list *is_neighs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+is_passive	isis_circuit.h	/^  int is_passive;		\/* Is Passive ? *\/$/;"	m	struct:isis_circuit
+is_type	isis_circuit.h	/^  int is_type;	                \/* circuit is type == level of circuit$/;"	m	struct:isis_circuit
+is_type	isisd.h	/^  char is_type;			\/* level-1 level-1-2 or level-2-only *\/$/;"	m	struct:isis_area
+isis	isisd.c	/^struct isis *isis = NULL;$/;"	v	typeref:struct:isis
+isis	isisd.h	/^  struct isis *isis;				  \/* back pointer *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::isis
+isis	isisd.h	/^struct isis$/;"	s
+isis_adj_build_neigh_list	isis_adjacency.c	/^isis_adj_build_neigh_list (struct list *adjdb, struct list *list)$/;"	f
+isis_adj_build_up_list	isis_adjacency.c	/^isis_adj_build_up_list (struct list *adjdb, struct list *list)$/;"	f
+isis_adj_expire	isis_adjacency.c	/^isis_adj_expire (struct thread *thread)$/;"	f
+isis_adj_lookup	isis_adjacency.c	/^isis_adj_lookup (const u_char * sysid, struct list *adjdb)$/;"	f
+isis_adj_lookup_snpa	isis_adjacency.c	/^isis_adj_lookup_snpa (const u_char * ssnpa, struct list *adjdb)$/;"	f
+isis_adj_print	isis_adjacency.c	/^isis_adj_print (struct isis_adjacency *adj)$/;"	f
+isis_adj_print_vty	isis_adjacency.c	/^isis_adj_print_vty (struct isis_adjacency *adj, struct vty *vty, char detail)$/;"	f
+isis_adj_state	isis_adjacency.h	/^enum isis_adj_state$/;"	g
+isis_adj_state_change	isis_adjacency.c	/^isis_adj_state_change (struct isis_adjacency *adj, enum isis_adj_state new_state,$/;"	f
+isis_adj_updown_reason	isis_adjacency.h	/^enum isis_adj_updown_reason$/;"	g
+isis_adj_usage	isis_adjacency.h	/^enum isis_adj_usage$/;"	g
+isis_adjacency	isis_adjacency.h	/^struct isis_adjacency$/;"	s
+isis_area	isisd.h	/^struct isis_area$/;"	s
+isis_area_create	isisd.c	/^isis_area_create (const char *area_tag)$/;"	f
+isis_area_destroy	isisd.c	/^isis_area_destroy (struct vty *vty, const char *area_tag)$/;"	f
+isis_area_get	isisd.c	/^isis_area_get (struct vty *vty, const char *area_tag)$/;"	f
+isis_area_lookup	isisd.c	/^isis_area_lookup (const char *area_tag)$/;"	f
+isis_bcast_info	isis_circuit.h	/^struct isis_bcast_info$/;"	s
+isis_check_dr_change	isis_dr.c	/^isis_check_dr_change (struct isis_adjacency *adj, int level)$/;"	f	file:
+isis_circuit	isis_circuit.h	/^struct isis_circuit$/;"	s
+isis_circuit_add_addr	isis_circuit.c	/^isis_circuit_add_addr (struct isis_circuit *circuit,$/;"	f
+isis_circuit_configure	isis_circuit.c	/^isis_circuit_configure (struct isis_circuit *circuit, struct isis_area *area)$/;"	f
+isis_circuit_deconfigure	isis_circuit.c	/^isis_circuit_deconfigure (struct isis_circuit *circuit, struct isis_area *area)$/;"	f
+isis_circuit_del	isis_circuit.c	/^isis_circuit_del (struct isis_circuit *circuit)$/;"	f
+isis_circuit_del_addr	isis_circuit.c	/^isis_circuit_del_addr (struct isis_circuit *circuit,$/;"	f
+isis_circuit_down	isis_circuit.c	/^isis_circuit_down (struct isis_circuit *circuit)$/;"	f
+isis_circuit_id_gen	isis_circuit.c	/^isis_circuit_id_gen (struct interface *ifp)$/;"	f	file:
+isis_circuit_if_add	isis_circuit.c	/^isis_circuit_if_add (struct isis_circuit *circuit, struct interface *ifp)$/;"	f
+isis_circuit_if_bind	isis_circuit.c	/^isis_circuit_if_bind (struct isis_circuit *circuit, struct interface *ifp)$/;"	f
+isis_circuit_if_del	isis_circuit.c	/^isis_circuit_if_del (struct isis_circuit *circuit, struct interface *ifp)$/;"	f
+isis_circuit_if_unbind	isis_circuit.c	/^isis_circuit_if_unbind (struct isis_circuit *circuit, struct interface *ifp)$/;"	f
+isis_circuit_init	isis_circuit.c	/^isis_circuit_init ()$/;"	f
+isis_circuit_lookup	isis_circuit.c	/^isis_circuit_lookup (struct vty *vty)$/;"	f	file:
+isis_circuit_new	isis_circuit.c	/^isis_circuit_new ()$/;"	f
+isis_circuit_pdu_size	isis_circuit.c	/^isis_circuit_pdu_size(struct isis_circuit *circuit)$/;"	f
+isis_circuit_print_vty	isis_circuit.c	/^isis_circuit_print_vty (struct isis_circuit *circuit, struct vty *vty,$/;"	f
+isis_circuit_stream	isis_circuit.c	/^isis_circuit_stream(struct isis_circuit *circuit, struct stream **stream)$/;"	f
+isis_circuit_up	isis_circuit.c	/^isis_circuit_up (struct isis_circuit *circuit)$/;"	f
+isis_circuit_update_all_srmflags	isis_circuit.c	/^isis_circuit_update_all_srmflags (struct isis_circuit *circuit, int is_set)$/;"	f	file:
+isis_complete_seqnum_hdr	isis_pdu.h	/^struct isis_complete_seqnum_hdr$/;"	s
+isis_config_write	isisd.c	/^isis_config_write (struct vty *vty)$/;"	f
+isis_csm_state_change	isis_csm.c	/^isis_csm_state_change (int event, struct isis_circuit *circuit, void *arg)$/;"	f
+isis_delete_adj	isis_adjacency.c	/^isis_delete_adj (void *arg)$/;"	f
+isis_dis_record	isis_adjacency.h	/^struct isis_dis_record$/;"	s
+isis_dis_state	isis_dr.h	/^enum isis_dis_state$/;"	g
+isis_disflag2string	isis_dr.c	/^isis_disflag2string (int disflag)$/;"	f
+isis_distribute_list_update	isis_zebra.c	/^isis_distribute_list_update (int routetype)$/;"	f
+isis_dr_commence	isis_dr.c	/^isis_dr_commence (struct isis_circuit *circuit, int level)$/;"	f
+isis_dr_elect	isis_dr.c	/^isis_dr_elect (struct isis_circuit *circuit, int level)$/;"	f
+isis_dr_resign	isis_dr.c	/^isis_dr_resign (struct isis_circuit *circuit, int level)$/;"	f
+isis_dynhn	isis_dynhn.h	/^struct isis_dynhn$/;"	s
+isis_dynhn_insert	isis_dynhn.c	/^isis_dynhn_insert (const u_char * id, struct hostname *hostname, int level)$/;"	f
+isis_dynhn_remove	isis_dynhn.c	/^isis_dynhn_remove (const u_char * id)$/;"	f
+isis_event_adjacency_state_change	isis_events.c	/^isis_event_adjacency_state_change (struct isis_adjacency *adj, int newstate)$/;"	f
+isis_event_auth_failure	isis_events.c	/^isis_event_auth_failure (char *area_tag, const char *error_string, u_char *sysid)$/;"	f
+isis_event_circuit_state_change	isis_events.c	/^isis_event_circuit_state_change (struct isis_circuit *circuit,$/;"	f
+isis_event_circuit_type_change	isis_events.c	/^isis_event_circuit_type_change (struct isis_circuit *circuit, int newtype)$/;"	f
+isis_event_dis_status_change	isis_events.c	/^isis_event_dis_status_change (struct thread *thread)$/;"	f
+isis_event_system_type_change	isis_events.c	/^isis_event_system_type_change (struct isis_area *area, int newtype)$/;"	f
+isis_ext_info	isis_redist.h	/^struct isis_ext_info$/;"	s
+isis_find_vertex	isis_spf.c	/^isis_find_vertex (struct list *list, void *id, enum vertextype vtype)$/;"	f	file:
+isis_fixed_hdr	isis_pdu.h	/^struct isis_fixed_hdr$/;"	s
+isis_handle_pdu	isis_pdu.c	/^isis_handle_pdu (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f	file:
+isis_header	isis_lsp.h	/^  struct isis_fixed_hdr *isis_header;		\/* normally equals pdu *\/$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::isis_fixed_hdr
+isis_if_delete_hook	isis_circuit.c	/^isis_if_delete_hook (struct interface *ifp)$/;"	f
+isis_if_new_hook	isis_circuit.c	/^isis_if_new_hook (struct interface *ifp)$/;"	f
+isis_init	isisd.c	/^isis_init ()$/;"	f
+isis_interface_config_write	isis_circuit.c	/^isis_interface_config_write (struct vty *vty)$/;"	f
+isis_jitter	isis_misc.c	/^isis_jitter (unsigned long timer, unsigned long jitter)$/;"	f
+isis_lan_hello_hdr	isis_pdu.h	/^struct isis_lan_hello_hdr$/;"	s
+isis_link_state_hdr	isis_pdu.h	/^struct isis_link_state_hdr$/;"	s
+isis_lsp	isis_lsp.h	/^struct isis_lsp$/;"	s
+isis_multicast_join	isis_pfpacket.c	/^isis_multicast_join (int fd, int registerto, int if_num)$/;"	f	file:
+isis_new	isisd.c	/^isis_new (unsigned long process_id)$/;"	f
+isis_new_adj	isis_adjacency.c	/^isis_new_adj (const u_char * id, const u_char * snpa, int level,$/;"	f
+isis_nexthop	isis_route.h	/^struct isis_nexthop$/;"	s
+isis_nexthop6	isis_route.h	/^struct isis_nexthop6$/;"	s
+isis_nexthop6_create	isis_route.c	/^isis_nexthop6_create (struct in6_addr *ip6, ifindex_t ifindex)$/;"	f	file:
+isis_nexthop6_delete	isis_route.c	/^isis_nexthop6_delete (struct isis_nexthop6 *nexthop6)$/;"	f	file:
+isis_nexthop6_new	isis_route.c	/^isis_nexthop6_new (struct in6_addr *ip6, ifindex_t ifindex)$/;"	f	file:
+isis_nexthop_create	isis_route.c	/^isis_nexthop_create (struct in_addr *ip, ifindex_t ifindex)$/;"	f	file:
+isis_nexthop_delete	isis_route.c	/^isis_nexthop_delete (struct isis_nexthop *nexthop)$/;"	f	file:
+isis_node	isisd.c	/^struct cmd_node isis_node = {$/;"	v	typeref:struct:cmd_node
+isis_p2p_hello_hdr	isis_pdu.h	/^struct isis_p2p_hello_hdr$/;"	s
+isis_p2p_info	isis_circuit.h	/^struct isis_p2p_info$/;"	s
+isis_partial_seqnum_hdr	isis_pdu.h	/^struct isis_partial_seqnum_hdr$/;"	s
+isis_passwd	isis_common.h	/^struct isis_passwd$/;"	s
+isis_print_paths	isis_spf.c	/^isis_print_paths (struct vty *vty, struct list *paths, u_char *root_sysid)$/;"	f	file:
+isis_receive	isis_pdu.c	/^isis_receive (struct thread *thread)$/;"	f
+isis_recv_pdu_bcast	isis_bpf.c	/^isis_recv_pdu_bcast (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f
+isis_recv_pdu_bcast	isis_dlpi.c	/^isis_recv_pdu_bcast (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f
+isis_recv_pdu_bcast	isis_pfpacket.c	/^isis_recv_pdu_bcast (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f
+isis_recv_pdu_p2p	isis_bpf.c	/^isis_recv_pdu_p2p (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f
+isis_recv_pdu_p2p	isis_pfpacket.c	/^isis_recv_pdu_p2p (struct isis_circuit *circuit, u_char * ssnpa)$/;"	f
+isis_redist	isis_redist.h	/^struct isis_redist$/;"	s
+isis_redist_add	isis_redist.c	/^isis_redist_add(int type, struct prefix *p, u_char distance, uint32_t metric)$/;"	f
+isis_redist_area_finish	isis_redist.c	/^isis_redist_area_finish(struct isis_area *area)$/;"	f
+isis_redist_config_write	isis_redist.c	/^isis_redist_config_write(struct vty *vty, struct isis_area *area,$/;"	f
+isis_redist_delete	isis_redist.c	/^isis_redist_delete(int type, struct prefix *p)$/;"	f
+isis_redist_ensure_default	isis_redist.c	/^isis_redist_ensure_default(struct isis *isis, int family)$/;"	f	file:
+isis_redist_init	isis_redist.c	/^isis_redist_init(void)$/;"	f
+isis_redist_install	isis_redist.c	/^isis_redist_install(struct isis_area *area, int level,$/;"	f	file:
+isis_redist_route_node_create	isis_redist.c	/^isis_redist_route_node_create(route_table_delegate_t *delegate,$/;"	f	file:
+isis_redist_route_node_destroy	isis_redist.c	/^isis_redist_route_node_destroy(route_table_delegate_t *delegate,$/;"	f	file:
+isis_redist_routemap_set	isis_redist.c	/^isis_redist_routemap_set(struct isis_redist *redist, const char *routemap)$/;"	f	file:
+isis_redist_rt_delegate	isis_redist.c	/^static route_table_delegate_t isis_redist_rt_delegate = {$/;"	v	file:
+isis_redist_set	isis_redist.c	/^isis_redist_set(struct isis_area *area, int level,$/;"	f	file:
+isis_redist_uninstall	isis_redist.c	/^isis_redist_uninstall(struct isis_area *area, int level, struct prefix *p)$/;"	f	file:
+isis_redist_unset	isis_redist.c	/^isis_redist_unset(struct isis_area *area, int level,$/;"	f	file:
+isis_redist_update_ext_reach	isis_redist.c	/^isis_redist_update_ext_reach(struct isis_area *area, int level,$/;"	f	file:
+isis_redist_update_zebra_subscriptions	isis_redist.c	/^isis_redist_update_zebra_subscriptions(struct isis *isis)$/;"	f	file:
+isis_root_system_lsp	isis_spf.c	/^isis_root_system_lsp (struct isis_area *area, int level, u_char *sysid)$/;"	f	file:
+isis_route_create	isis_route.c	/^isis_route_create (struct prefix *prefix, u_int32_t cost, u_int32_t depth,$/;"	f
+isis_route_delete	isis_route.c	/^isis_route_delete (struct prefix *prefix, struct route_table *table)$/;"	f	file:
+isis_route_info	isis_route.h	/^struct isis_route_info$/;"	s
+isis_route_info_delete	isis_route.c	/^isis_route_info_delete (struct isis_route_info *route_info)$/;"	f	file:
+isis_route_info_new	isis_route.c	/^isis_route_info_new (struct prefix *prefix, uint32_t cost, uint32_t depth,$/;"	f	file:
+isis_route_info_same	isis_route.c	/^isis_route_info_same (struct isis_route_info *new,$/;"	f	file:
+isis_route_info_same_attrib	isis_route.c	/^isis_route_info_same_attrib (struct isis_route_info *new,$/;"	f	file:
+isis_route_invalidate	isis_route.c	/^isis_route_invalidate (struct isis_area *area)$/;"	f
+isis_route_invalidate_table	isis_route.c	/^isis_route_invalidate_table (struct isis_area *area, struct route_table *table)$/;"	f
+isis_route_map_init	isis_routemap.c	/^isis_route_map_init(void)$/;"	f
+isis_route_match_add	isis_routemap.c	/^isis_route_match_add(struct vty *vty, struct route_map_index *index,$/;"	f	file:
+isis_route_match_delete	isis_routemap.c	/^isis_route_match_delete(struct vty *vty, struct route_map_index *index,$/;"	f	file:
+isis_route_set_add	isis_routemap.c	/^isis_route_set_add(struct vty *vty, struct route_map_index *index,$/;"	f	file:
+isis_route_set_delete	isis_routemap.c	/^isis_route_set_delete (struct vty *vty, struct route_map_index *index,$/;"	f	file:
+isis_route_validate	isis_route.c	/^isis_route_validate (struct isis_area *area)$/;"	f
+isis_route_validate_merge	isis_route.c	/^isis_route_validate_merge (struct isis_area *area, int family)$/;"	f	file:
+isis_route_validate_table	isis_route.c	/^isis_route_validate_table (struct isis_area *area, struct route_table *table)$/;"	f	file:
+isis_router_id_update_zebra	isis_zebra.c	/^isis_router_id_update_zebra (int command, struct zclient *zclient,$/;"	f	file:
+isis_run_dr_l1	isis_dr.c	/^isis_run_dr_l1 (struct thread *thread)$/;"	f
+isis_run_dr_l2	isis_dr.c	/^isis_run_dr_l2 (struct thread *thread)$/;"	f
+isis_run_spf	isis_spf.c	/^isis_run_spf (struct isis_area *area, int level, int family, u_char *sysid)$/;"	f	file:
+isis_run_spf6_l1	isis_spf.c	/^isis_run_spf6_l1 (struct thread *thread)$/;"	f	file:
+isis_run_spf6_l2	isis_spf.c	/^isis_run_spf6_l2 (struct thread *thread)$/;"	f	file:
+isis_run_spf_l1	isis_spf.c	/^isis_run_spf_l1 (struct thread *thread)$/;"	f
+isis_run_spf_l2	isis_spf.c	/^isis_run_spf_l2 (struct thread *thread)$/;"	f
+isis_send_pdu_bcast	isis_bpf.c	/^isis_send_pdu_bcast (struct isis_circuit *circuit, int level)$/;"	f
+isis_send_pdu_bcast	isis_dlpi.c	/^isis_send_pdu_bcast (struct isis_circuit *circuit, int level)$/;"	f
+isis_send_pdu_bcast	isis_pfpacket.c	/^isis_send_pdu_bcast (struct isis_circuit *circuit, int level)$/;"	f
+isis_send_pdu_p2p	isis_bpf.c	/^isis_send_pdu_p2p (struct isis_circuit *circuit, int level)$/;"	f
+isis_send_pdu_p2p	isis_pfpacket.c	/^isis_send_pdu_p2p (struct isis_circuit *circuit, int level)$/;"	f
+isis_sock_init	isis_bpf.c	/^isis_sock_init (struct isis_circuit *circuit)$/;"	f
+isis_sock_init	isis_dlpi.c	/^isis_sock_init (struct isis_circuit *circuit)$/;"	f
+isis_sock_init	isis_pfpacket.c	/^isis_sock_init (struct isis_circuit *circuit)$/;"	f
+isis_spf_add2tent	isis_spf.c	/^isis_spf_add2tent (struct isis_spftree *spftree, enum vertextype vtype,$/;"	f	file:
+isis_spf_add_local	isis_spf.c	/^isis_spf_add_local (struct isis_spftree *spftree, enum vertextype vtype,$/;"	f	file:
+isis_spf_add_root	isis_spf.c	/^isis_spf_add_root (struct isis_spftree *spftree, int level, u_char *sysid)$/;"	f	file:
+isis_spf_cmds_init	isis_spf.c	/^isis_spf_cmds_init ()$/;"	f
+isis_spf_preload_tent	isis_spf.c	/^isis_spf_preload_tent (struct isis_spftree *spftree, int level,$/;"	f	file:
+isis_spf_process_lsp	isis_spf.c	/^isis_spf_process_lsp (struct isis_spftree *spftree, struct isis_lsp *lsp,$/;"	f	file:
+isis_spf_process_pseudo_lsp	isis_spf.c	/^isis_spf_process_pseudo_lsp (struct isis_spftree *spftree,$/;"	f	file:
+isis_spf_schedule	isis_spf.c	/^isis_spf_schedule (struct isis_area *area, int level)$/;"	f
+isis_spf_schedule6	isis_spf.c	/^isis_spf_schedule6 (struct isis_area *area, int level)$/;"	f
+isis_spftree	isis_spf.h	/^struct isis_spftree$/;"	s
+isis_spftree_adj_del	isis_spf.c	/^isis_spftree_adj_del (struct isis_spftree *spftree, struct isis_adjacency *adj)$/;"	f
+isis_spftree_del	isis_spf.c	/^isis_spftree_del (struct isis_spftree *spftree)$/;"	f
+isis_spftree_new	isis_spf.c	/^isis_spftree_new (struct isis_area *area)$/;"	f
+isis_system_ids	isis_tlv.h	/^  struct list *isis_system_ids;$/;"	m	struct:partition_desig_level2_is	typeref:struct:partition_desig_level2_is::list
+isis_system_type	isis_adjacency.h	/^enum isis_system_type$/;"	g
+isis_vertex	isis_spf.h	/^struct isis_vertex$/;"	s
+isis_vertex_adj_del	isis_spf.c	/^isis_vertex_adj_del (struct isis_vertex *vertex, struct isis_adjacency *adj)$/;"	f	file:
+isis_vertex_del	isis_spf.c	/^isis_vertex_del (struct isis_vertex *vertex)$/;"	f	file:
+isis_vertex_new	isis_spf.c	/^isis_vertex_new (void *id, enum vertextype vtype)$/;"	f	file:
+isis_zebra_connected	isis_zebra.c	/^isis_zebra_connected (struct zclient *zclient)$/;"	f	file:
+isis_zebra_if_add	isis_zebra.c	/^isis_zebra_if_add (int command, struct zclient *zclient, zebra_size_t length,$/;"	f	file:
+isis_zebra_if_address_add	isis_zebra.c	/^isis_zebra_if_address_add (int command, struct zclient *zclient,$/;"	f	file:
+isis_zebra_if_address_del	isis_zebra.c	/^isis_zebra_if_address_del (int command, struct zclient *client,$/;"	f	file:
+isis_zebra_if_del	isis_zebra.c	/^isis_zebra_if_del (int command, struct zclient *zclient, zebra_size_t length,$/;"	f	file:
+isis_zebra_if_state_down	isis_zebra.c	/^isis_zebra_if_state_down (int command, struct zclient *zclient,$/;"	f	file:
+isis_zebra_if_state_up	isis_zebra.c	/^isis_zebra_if_state_up (int command, struct zclient *zclient,$/;"	f	file:
+isis_zebra_init	isis_zebra.c	/^isis_zebra_init (struct thread_master *master)$/;"	f
+isis_zebra_read_ipv4	isis_zebra.c	/^isis_zebra_read_ipv4 (int command, struct zclient *zclient,$/;"	f	file:
+isis_zebra_read_ipv6	isis_zebra.c	/^isis_zebra_read_ipv6 (int command, struct zclient *zclient,$/;"	f	file:
+isis_zebra_redistribute_set	isis_zebra.c	/^isis_zebra_redistribute_set(int type)$/;"	f
+isis_zebra_redistribute_unset	isis_zebra.c	/^isis_zebra_redistribute_unset(int type)$/;"	f
+isis_zebra_route_add_ipv4	isis_zebra.c	/^isis_zebra_route_add_ipv4 (struct prefix *prefix,$/;"	f	file:
+isis_zebra_route_add_ipv6	isis_zebra.c	/^isis_zebra_route_add_ipv6 (struct prefix *prefix,$/;"	f	file:
+isis_zebra_route_del_ipv4	isis_zebra.c	/^isis_zebra_route_del_ipv4 (struct prefix *prefix,$/;"	f	file:
+isis_zebra_route_del_ipv6	isis_zebra.c	/^isis_zebra_route_del_ipv6 (struct prefix *prefix,$/;"	f	file:
+isis_zebra_route_update	isis_zebra.c	/^isis_zebra_route_update (struct prefix *prefix,$/;"	f
+isisd_privs	isis_main.c	/^struct zebra_privs_t isisd_privs = {$/;"	v	typeref:struct:zebra_privs_t
+isisd_signals	isis_main.c	/^struct quagga_signal_t isisd_signals[] =$/;"	v	typeref:struct:quagga_signal_t
+iso_addr	include-netbsd/iso.h	/^struct iso_addr {$/;"	s
+iso_csum_verify	iso_checksum.c	/^iso_csum_verify (u_char * buffer, int len, uint16_t * csum)$/;"	f
+isoa_genaddr	include-netbsd/iso.h	/^	char            isoa_genaddr[20];	\/* general opaque address *\/$/;"	m	struct:iso_addr
+isoa_len	include-netbsd/iso.h	/^	u_char          isoa_len;	\/* length (in bytes) *\/$/;"	m	struct:iso_addr
+isonet	isis_misc.c	/^char isonet[51];$/;"	v
+isonet_print	isis_misc.c	/^isonet_print (const u_char * from, int len)$/;"	f
+ix	topology/spgrid.c	/^long   ix = 1,        \/* number of interlayered arcs in a NODE *\/$/;"	v
+ix_f	topology/spgrid.c	/^int    i_f = 0, ip_f = 0, ix_f = 0, ih_f = 0,$/;"	v
+j	topology/spgrid.c	/^       j,$/;"	v
+k	topology/spgrid.c	/^       k;$/;"	v
+key	dict.c	39;"	d	file:
+l	topology/spgrid.c	/^       l,$/;"	v
+l1_desig_is	isis_circuit.h	/^  u_char l1_desig_is[ISIS_SYS_ID_LEN + 1];	\/* level-1 DR *\/$/;"	m	struct:isis_bcast_info
+l2_desig_is	isis_circuit.h	/^  u_char l2_desig_is[ISIS_SYS_ID_LEN + 1];	\/* level-2 DR *\/$/;"	m	struct:isis_bcast_info
+lan_id	isis_pdu.h	/^  u_char lan_id[ISIS_SYS_ID_LEN + 1];$/;"	m	struct:isis_lan_hello_hdr
+lan_neigh	isis_tlv.h	/^struct lan_neigh$/;"	s
+lan_neighs	isis_circuit.h	/^  struct list *lan_neighs[2];	\/* list of lx neigh snpa *\/$/;"	m	struct:isis_bcast_info	typeref:struct:isis_bcast_info::list
+lan_neighs	isis_tlv.h	/^  struct list *lan_neighs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+lanid	isis_adjacency.h	/^  u_char lanid[ISIS_SYS_ID_LEN + 1];	\/* LAN id on bcast circuits *\/$/;"	m	struct:isis_adjacency
+last_dis_change	isis_adjacency.h	/^  time_t last_dis_change;	\/* timestamp for last dis change *\/$/;"	m	struct:isis_dis_record
+last_flap	isis_adjacency.h	/^  u_int32_t last_flap;		\/* last time the adj flapped *\/$/;"	m	struct:isis_adjacency
+last_generated	isis_lsp.h	/^  time_t last_generated;$/;"	m	struct:isis_lsp
+last_run_duration	isis_spf.h	/^  time_t last_run_duration;     \/* last run duration in msec *\/$/;"	m	struct:isis_spftree
+last_run_timestamp	isis_spf.h	/^  time_t last_run_timestamp;    \/* last run timestamp for scheduling *\/$/;"	m	struct:isis_spftree
+last_upd	isis_adjacency.h	/^  u_int32_t last_upd;$/;"	m	struct:isis_adjacency
+left	dict.c	35;"	d	file:
+len	isis_circuit.h	/^  int len;$/;"	m	struct:password
+len	isis_common.h	/^  u_char len;$/;"	m	struct:isis_passwd
+len	isis_tlv.h	/^  u_char len;$/;"	m	struct:idrp_info
+length	isis_pdu.h	/^  u_char length;$/;"	m	struct:esis_fixed_hdr
+length	isis_pdu.h	/^  u_char length;$/;"	m	struct:isis_fixed_hdr
+level	isis_adjacency.h	/^  int level;			\/* level (1 or 2) *\/$/;"	m	struct:isis_adjacency
+level	isis_dynhn.h	/^  int level;$/;"	m	struct:isis_dynhn
+level	isis_lsp.h	/^  int level;			\/* L1 or L2? *\/$/;"	m	struct:isis_lsp
+llc_check	isis_pfpacket.c	/^llc_check (u_char * llc)$/;"	f	file:
+llcfilter	isis_bpf.c	/^struct bpf_insn llcfilter[] = {$/;"	v	typeref:struct:bpf_insn
+load_begin_internal	dict.c	/^static void load_begin_internal(dict_load_t *load, dict_t *dict)$/;"	f	file:
+local_id	isis_pdu.h	/^  u_char local_id;$/;"	m	struct:isis_p2p_hello_hdr
+lock	isis_route.h	/^  unsigned int lock;$/;"	m	struct:isis_nexthop
+lock	isis_route.h	/^  unsigned int lock;$/;"	m	struct:isis_nexthop6
+log_adj_changes	isisd.h	/^  u_char log_adj_changes;$/;"	m	struct:isis_area
+longopts	isis_main.c	/^struct option longopts[] = {$/;"	v	typeref:struct:option
+lsp_authentication_check	isis_pdu.c	/^lsp_authentication_check (struct stream *stream, struct isis_area *area,$/;"	f	file:
+lsp_bits	isis_pdu.h	/^  u_int8_t lsp_bits;$/;"	m	struct:isis_link_state_hdr
+lsp_debug	isisd.h	159;"	d
+lsp_entries	isis_tlv.h	/^  struct list *lsp_entries;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+lsp_entry	isis_tlv.h	/^struct lsp_entry$/;"	s
+lsp_frag_threshold	isisd.h	/^  int lsp_frag_threshold;$/;"	m	struct:isis_area
+lsp_gen_interval	isisd.h	/^  u_int16_t lsp_gen_interval[ISIS_LEVELS];$/;"	m	struct:isis_area
+lsp_header	isis_lsp.h	/^  struct isis_link_state_hdr *lsp_header;	\/* pdu + isis_header_len *\/$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::isis_link_state_hdr
+lsp_id	isis_pdu.h	/^  u_char lsp_id[ISIS_SYS_ID_LEN + 2];$/;"	m	struct:isis_link_state_hdr
+lsp_id	isis_tlv.h	/^  u_char lsp_id[ISIS_SYS_ID_LEN + 2];$/;"	m	struct:lsp_entry
+lsp_mtu	isisd.h	/^  unsigned int lsp_mtu;				  \/* Size of LSPs to generate *\/$/;"	m	struct:isis_area
+lsp_queue	isis_circuit.h	/^  struct list *lsp_queue;	\/* LSPs to be txed (both levels) *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::list
+lsp_queue_last_cleared	isis_circuit.h	/^  time_t lsp_queue_last_cleared;\/* timestamp used to enforce transmit interval;$/;"	m	struct:isis_circuit
+lsp_refresh	isisd.h	/^  u_int16_t lsp_refresh[ISIS_LEVELS];$/;"	m	struct:isis_area
+lsp_regenerate_pending	isis_circuit.h	/^  int lsp_regenerate_pending[ISIS_LEVELS];$/;"	m	struct:isis_circuit
+lsp_regenerate_pending	isisd.h	/^  int lsp_regenerate_pending[ISIS_LEVELS];$/;"	m	struct:isis_area
+lspdb	isisd.h	/^  dict_t *lspdb[ISIS_LEVELS];			  \/* link-state dbs *\/$/;"	m	struct:isis_area
+lspid	isis_misc.c	/^char lspid[21];$/;"	v
+lspu	isis_lsp.h	/^  } lspu;$/;"	m	struct:isis_lsp	typeref:union:isis_lsp::__anon2
+lx	topology/spgrid.c	/^       lx;$/;"	v
+m	topology/spgrid.c	/^double m;$/;"	v
+m0	topology/spgrid.c	/^long   m0,$/;"	v
+main	dict.c	/^int main(void)$/;"	f
+main	isis_main.c	/^main (int argc, char **argv, char **envp)$/;"	f
+main	topology/spacyc.c	/^main ( argc, argv )$/;"	f
+main	topology/sprand.c	/^main ( argc, argv )$/;"	f
+man_area_addrs	isisd.h	/^  struct area_addr *man_area_addrs;	\/* manualAreaAddresses *\/$/;"	m	struct:isis	typeref:struct:isis::area_addr
+map	isis_redist.h	/^  struct route_map *map;$/;"	m	struct:isis_redist	typeref:struct:isis_redist::route_map
+map_name	isis_redist.h	/^  char *map_name;$/;"	m	struct:isis_redist
+mask	isis_tlv.h	/^  struct in_addr mask;$/;"	m	struct:ipv4_reachability	typeref:struct:ipv4_reachability::in_addr
+maskbit	isis_pdu.c	/^static const u_char maskbit[] = {$/;"	v	file:
+master	isis_main.c	/^struct thread_master *master;$/;"	v	typeref:struct:thread_master
+max_area_addrs	isis_pdu.h	/^  u_char max_area_addrs;$/;"	m	struct:isis_fixed_hdr
+max_area_addrs	isisd.h	/^  u_char max_area_addrs;	\/* maximumAreaAdresses *\/$/;"	m	struct:isis
+max_lsp_lifetime	isisd.h	/^  u_int16_t max_lsp_lifetime[ISIS_LEVELS];$/;"	m	struct:isis_area
+max_lsps_per_snp	isis_pdu.c	/^max_lsps_per_snp (int snp_type, int level, struct isis_circuit *circuit)$/;"	f	file:
+maxcount	dict.c	44;"	d	file:
+maxindex	isis_flags.h	/^  int maxindex;$/;"	m	struct:flags
+mc	topology/spgrid.c	/^       mc,$/;"	v
+mess	topology/spgrid.c	/^       *mess;$/;"	v
+metric	isis_circuit.h	/^struct metric$/;"	s
+metric	isis_redist.h	/^  uint32_t metric;$/;"	m	struct:isis_ext_info
+metric	isis_redist.h	/^  uint32_t metric;$/;"	m	struct:isis_redist
+metric	isis_tlv.h	/^  u_int32_t metric;$/;"	m	struct:ipv6_reachability
+metric_default	isis_circuit.h	/^  u_char metric_default;$/;"	m	struct:metric
+metric_delay	isis_circuit.h	/^  u_char metric_delay;$/;"	m	struct:metric
+metric_error	isis_circuit.h	/^  u_char metric_error;$/;"	m	struct:metric
+metric_expense	isis_circuit.h	/^  u_char metric_expense;$/;"	m	struct:metric
+metrics	isis_circuit.h	/^  struct metric metrics[2];	\/* l1XxxMetric *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::metric
+metrics	isis_tlv.h	/^  struct metric metrics;$/;"	m	struct:es_neigh	typeref:struct:es_neigh::metric
+metrics	isis_tlv.h	/^  struct metric metrics;$/;"	m	struct:ipv4_reachability	typeref:struct:ipv4_reachability::metric
+metrics	isis_tlv.h	/^  struct metric metrics;$/;"	m	struct:is_neigh	typeref:struct:is_neigh::metric
+min_spf_interval	isisd.h	/^  u_int16_t min_spf_interval[ISIS_LEVELS];$/;"	m	struct:isis_area
+n	topology/spgrid.c	/^double n;$/;"	v
+n0	topology/spgrid.c	/^long   n0,$/;"	v
+name	isis_common.h	/^  u_char name[255];$/;"	m	struct:hostname
+name	isis_dynhn.h	/^  struct hostname name;$/;"	m	struct:isis_dynhn	typeref:struct:isis_dynhn::hostname
+namelen	isis_common.h	/^  u_char namelen;$/;"	m	struct:hostname
+neigh_id	isis_tlv.h	/^  u_char neigh_id[ISIS_SYS_ID_LEN + 1];$/;"	m	struct:is_neigh
+neigh_id	isis_tlv.h	/^  u_char neigh_id[ISIS_SYS_ID_LEN + 1];$/;"	m	struct:te_is_neigh
+neighbor	isis_circuit.h	/^  struct isis_adjacency *neighbor;$/;"	m	struct:isis_p2p_info	typeref:struct:isis_p2p_info::isis_adjacency
+new_node	dict.c	/^static dnode_t *new_node(void *c)$/;"	f	file:
+new_prefix	isis_misc.c	/^struct in_addr new_prefix;$/;"	v	typeref:struct:in_addr
+newmetric	isisd.h	/^  char newmetric;$/;"	m	struct:isis_area
+newprefix2inaddr	isis_misc.c	/^newprefix2inaddr (u_char * prefix_start, u_char prefix_masklen)$/;"	f
+next	isis_circuit.h	/^  struct password *next;$/;"	m	struct:password	typeref:struct:password::password
+nexthop6_print	isis_route.c	/^nexthop6_print (struct isis_nexthop6 *nh6)$/;"	f	file:
+nexthop6lookup	isis_route.c	/^nexthop6lookup (struct list *nexthops6, struct in6_addr *ip6,$/;"	f	file:
+nexthop_print	isis_route.c	/^nexthop_print (struct isis_nexthop *nh)$/;"	f	file:
+nexthoplookup	isis_route.c	/^nexthoplookup (struct list *nexthops, struct in_addr *ip,$/;"	f	file:
+nexthops	isis_route.h	/^  struct list *nexthops;$/;"	m	struct:isis_route_info	typeref:struct:isis_route_info::list
+nexthops	isisd.h	/^  struct list *nexthops;	\/* IPv4 next hops from this IS *\/$/;"	m	struct:isis	typeref:struct:isis::list
+nexthops6	isis_route.h	/^  struct list *nexthops6;$/;"	m	struct:isis_route_info	typeref:struct:isis_route_info::list
+nexthops6	isisd.h	/^  struct list *nexthops6;	\/* IPv6 next hops from this IS *\/$/;"	m	struct:isis	typeref:struct:isis::list
+nexthops6_print	isis_route.c	/^nexthops6_print (struct list *nhs6)$/;"	f	file:
+nexthops_print	isis_route.c	/^nexthops_print (struct list *nhs)$/;"	f	file:
+nilnode	dict.c	42;"	d	file:
+nlpid2string	isis_misc.c	/^nlpid2string (struct nlpids *nlpids)$/;"	f
+nlpids	isis_adjacency.h	/^  struct nlpids nlpids;			\/* protocols spoken ... *\/$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::nlpids
+nlpids	isis_circuit.h	/^  struct nlpids nlpids;$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::nlpids
+nlpids	isis_common.h	/^  u_char nlpids[4];		\/* FIXME: enough ? *\/$/;"	m	struct:nlpids
+nlpids	isis_common.h	/^struct nlpids$/;"	s
+nlpids	isis_tlv.h	/^  struct nlpids *nlpids;$/;"	m	struct:tlvs	typeref:struct:tlvs::nlpids
+nlpidstring	isis_misc.c	/^char nlpidstring[30];$/;"	v
+nodecount	dict.c	43;"	d	file:
+np	topology/spgrid.c	/^int np;               \/* number of parameter parsing now *\/$/;"	v
+nrand	topology/random.c	/^long nrand ( n )$/;"	f
+oldmetric	isisd.h	/^  char oldmetric;$/;"	m	struct:isis_area
+open_bpf_dev	isis_bpf.c	/^open_bpf_dev (struct isis_circuit *circuit)$/;"	f	file:
+open_dlpi_dev	isis_dlpi.c	/^open_dlpi_dev (struct isis_circuit *circuit)$/;"	f	file:
+open_packet_socket	isis_pfpacket.c	/^open_packet_socket (struct isis_circuit *circuit)$/;"	f	file:
+origin	isis_redist.h	/^  int origin;$/;"	m	struct:isis_ext_info
+overload_bit	isisd.h	/^  char overload_bit;$/;"	m	struct:isis_area
+own_lsp	isis_lsp.h	/^  int own_lsp;$/;"	m	struct:isis_lsp
+p	topology/spgrid.c	/^long   *p,$/;"	v
+p2p	isis_circuit.h	/^    struct isis_p2p_info p2p;$/;"	m	union:isis_circuit::__anon4	typeref:struct:isis_circuit::__anon4::isis_p2p_info
+p_f	topology/spgrid.c	/^int    p_f = 0, pl_f = 0, pm_f = 0, pn_f = 0, ps_f = 0;$/;"	v
+p_t	topology/spgrid.c	/^       p_t,$/;"	v
+pad_hellos	isis_circuit.h	/^  int pad_hellos;		\/* add padding to Hello PDUs ? *\/$/;"	m	struct:isis_circuit
+parent	dict.c	37;"	d	file:
+parents	isis_spf.h	/^  struct list *parents;         \/* list of parents for ECMP *\/$/;"	m	struct:isis_vertex	typeref:struct:isis_vertex::list
+parse_tlvs	isis_tlv.c	/^parse_tlvs (char *areatag, u_char * stream, int size, u_int32_t * expected,$/;"	f
+partition_desig_level2_is	isis_tlv.h	/^struct partition_desig_level2_is$/;"	s
+pass	isis_circuit.h	/^  u_char *pass;$/;"	m	struct:password
+passwd	isis_circuit.h	/^  struct isis_passwd passwd;	\/* Circuit rx\/tx password *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::isis_passwd
+passwd	isis_common.h	/^  u_char passwd[255];$/;"	m	struct:isis_passwd
+password	isis_circuit.h	/^struct password$/;"	s
+paths	isis_spf.h	/^  struct list *paths;		\/* the SPT *\/$/;"	m	struct:isis_spftree	typeref:struct:isis_spftree::list
+pdu	isis_lsp.h	/^  struct stream *pdu;				\/* full pdu lsp *\/$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::stream
+pdu_len	isis_pdu.h	/^  u_int16_t pdu_len;$/;"	m	struct:isis_complete_seqnum_hdr
+pdu_len	isis_pdu.h	/^  u_int16_t pdu_len;$/;"	m	struct:isis_lan_hello_hdr
+pdu_len	isis_pdu.h	/^  u_int16_t pdu_len;$/;"	m	struct:isis_link_state_hdr
+pdu_len	isis_pdu.h	/^  u_int16_t pdu_len;$/;"	m	struct:isis_p2p_hello_hdr
+pdu_len	isis_pdu.h	/^  u_int16_t pdu_len;$/;"	m	struct:isis_partial_seqnum_hdr
+pdu_type	isis_pdu.h	/^  u_char pdu_type;$/;"	m	struct:esis_fixed_hdr
+pdu_type	isis_pdu.h	/^  u_char pdu_type;$/;"	m	struct:isis_fixed_hdr
+pending	isis_spf.h	/^  int pending;			\/* already scheduled *\/$/;"	m	struct:isis_spftree
+pf_filter	isis_dlpi.c	/^static u_short pf_filter[] =$/;"	v	file:
+pid_file	isis_main.c	/^const char *pid_file = PATH_ISISD_PID;$/;"	v
+pl	topology/spgrid.c	/^long   pl,            \/* upper bound of the interval *\/$/;"	v
+pl_f	topology/spgrid.c	/^int    p_f = 0, pl_f = 0, pm_f = 0, pn_f = 0, ps_f = 0;$/;"	v
+pm	topology/spgrid.c	/^       pm;            \/* lower bound of the interval *\/$/;"	v
+pm_f	topology/spgrid.c	/^int    p_f = 0, pl_f = 0, pm_f = 0, pn_f = 0, ps_f = 0;$/;"	v
+pn	topology/spgrid.c	/^double pn = 0,        \/* p +=  ln * (x+1) *\/$/;"	v
+pn_f	topology/spgrid.c	/^int    p_f = 0, pl_f = 0, pm_f = 0, pn_f = 0, ps_f = 0;$/;"	v
+prefix	isis_spf.h	/^    struct prefix prefix;$/;"	m	union:isis_vertex::__anon5	typeref:struct:isis_vertex::__anon5::prefix
+prefix	isis_tlv.h	/^  struct in_addr prefix;$/;"	m	struct:ipv4_reachability	typeref:struct:ipv4_reachability::in_addr
+prefix	isis_tlv.h	/^  u_char prefix[16];$/;"	m	struct:ipv6_reachability
+prefix_len	isis_tlv.h	/^  u_char prefix_len;$/;"	m	struct:ipv6_reachability
+prefix_neighs	isis_tlv.h	/^  struct list *prefix_neighs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+prefix_start	isis_tlv.h	/^  u_char prefix_start;		\/* since this is variable length by nature it only *\/$/;"	m	struct:te_ipv4_reachability
+print_arc	topology/spgrid.c	/^print_arc (struct vty *vty, struct list *topology, long i, long j, long length)$/;"	f
+print_debug	isisd.c	/^print_debug (struct vty *vty, int flags, int onoff)$/;"	f
+print_sys_hostname	isis_misc.c	/^print_sys_hostname (const u_char *sysid)$/;"	f
+prio	isis_adjacency.h	/^  u_char prio[ISIS_LEVELS];	\/* priorityOfNeighbour for DIS *\/$/;"	m	struct:isis_adjacency
+prio	isis_pdu.h	/^  u_char prio;$/;"	m	struct:isis_lan_hello_hdr
+priority	isis_circuit.h	/^  u_char priority[2];		\/* l1\/2 IS configured priority *\/$/;"	m	struct:isis_circuit
+process_N	isis_spf.c	/^process_N (struct isis_spftree *spftree, enum vertextype vtype, void *id,$/;"	f	file:
+process_csnp	isis_pdu.c	/^process_csnp (int level, struct isis_circuit *circuit, const u_char *ssnpa)$/;"	f	file:
+process_id	isisd.h	/^  u_long process_id;$/;"	m	struct:isis
+process_lan_hello	isis_pdu.c	/^process_lan_hello (int level, struct isis_circuit *circuit, const u_char *ssnpa)$/;"	f	file:
+process_lsp	isis_pdu.c	/^process_lsp (int level, struct isis_circuit *circuit, const u_char *ssnpa)$/;"	f	file:
+process_p2p_hello	isis_pdu.c	/^process_p2p_hello (struct isis_circuit *circuit)$/;"	f	file:
+process_psnp	isis_pdu.c	/^process_psnp (int level, struct isis_circuit *circuit, const u_char *ssnpa)$/;"	f	file:
+process_snp	isis_pdu.c	/^process_snp (int snp_type, int level, struct isis_circuit *circuit,$/;"	f	file:
+progname	isis_main.c	/^char *progname;$/;"	v
+prompt	dict.c	/^static int prompt = 0;$/;"	v	file:
+ps	topology/spgrid.c	/^       ps = 0;        \/* p +=  ls * (x+1)^2 *\/$/;"	v
+ps_f	topology/spgrid.c	/^int    p_f = 0, pl_f = 0, pm_f = 0, pn_f = 0, ps_f = 0;$/;"	v
+psnp_interval	isis_circuit.h	/^  u_int16_t psnp_interval[2];	\/* level-1 psnp-interval in seconds *\/$/;"	m	struct:isis_circuit
+rand01	topology/random.c	/^double rand01()$/;"	f
+randg01	topology/random.c	/^double randg01()$/;"	f
+rawlspid_print	isis_misc.c	/^rawlspid_print (const u_char * from)$/;"	f
+rcv_stream	isis_circuit.h	/^  struct stream *rcv_stream;	\/* Stream for receiving *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::stream
+readblen	isis_bpf.c	/^u_int readblen = 0;$/;"	v
+readbuff	isis_bpf.c	/^u_char *readbuff = NULL;$/;"	v
+redist	isis_redist.h	/^  int redist;$/;"	m	struct:isis_redist
+redist_protocol	isis_redist.c	/^redist_protocol(int family)$/;"	f	file:
+redist_settings	isisd.h	/^  struct isis_redist redist_settings[REDIST_PROTOCOL_COUNT]$/;"	m	struct:isis_area	typeref:struct:isis_area::isis_redist
+refresh	isis_dynhn.h	/^  time_t refresh;$/;"	m	struct:isis_dynhn
+rej_adjacencies	isis_circuit.h	/^  u_int32_t rej_adjacencies;	\/* rejectedAdjacencies *\/$/;"	m	struct:isis_circuit
+reload	isis_main.c	/^reload ()$/;"	f
+rem_lifetime	isis_pdu.h	/^  u_int16_t rem_lifetime;$/;"	m	struct:isis_link_state_hdr
+rem_lifetime	isis_tlv.h	/^  u_int16_t rem_lifetime;$/;"	m	struct:lsp_entry
+remove_excess_adjs	isis_spf.c	/^remove_excess_adjs (struct list *adjs)$/;"	f	file:
+reserved	isis_pdu.h	/^  u_char reserved;$/;"	m	struct:isis_fixed_hdr
+right	dict.c	36;"	d	file:
+rotate_left	dict.c	/^static void rotate_left(dnode_t *upper)$/;"	f	file:
+rotate_right	dict.c	/^static void rotate_right(dnode_t *upper)$/;"	f	file:
+route_match_ip_address	isis_routemap.c	/^route_match_ip_address(void *rule, struct prefix *prefix,$/;"	f	file:
+route_match_ip_address_cmd	isis_routemap.c	/^static struct route_map_rule_cmd route_match_ip_address_cmd =$/;"	v	typeref:struct:route_map_rule_cmd	file:
+route_match_ip_address_compile	isis_routemap.c	/^route_match_ip_address_compile(const char *arg)$/;"	f	file:
+route_match_ip_address_free	isis_routemap.c	/^route_match_ip_address_free(void *rule)$/;"	f	file:
+route_match_ip_address_prefix_list	isis_routemap.c	/^route_match_ip_address_prefix_list(void *rule, struct prefix *prefix,$/;"	f	file:
+route_match_ip_address_prefix_list_cmd	isis_routemap.c	/^struct route_map_rule_cmd route_match_ip_address_prefix_list_cmd =$/;"	v	typeref:struct:route_map_rule_cmd
+route_match_ip_address_prefix_list_compile	isis_routemap.c	/^route_match_ip_address_prefix_list_compile(const char *arg)$/;"	f	file:
+route_match_ip_address_prefix_list_free	isis_routemap.c	/^route_match_ip_address_prefix_list_free (void *rule)$/;"	f	file:
+route_match_ipv6_address	isis_routemap.c	/^route_match_ipv6_address(void *rule, struct prefix *prefix,$/;"	f	file:
+route_match_ipv6_address_cmd	isis_routemap.c	/^static struct route_map_rule_cmd route_match_ipv6_address_cmd =$/;"	v	typeref:struct:route_map_rule_cmd	file:
+route_match_ipv6_address_compile	isis_routemap.c	/^route_match_ipv6_address_compile(const char *arg)$/;"	f	file:
+route_match_ipv6_address_free	isis_routemap.c	/^route_match_ipv6_address_free(void *rule)$/;"	f	file:
+route_match_ipv6_address_prefix_list	isis_routemap.c	/^route_match_ipv6_address_prefix_list(void *rule, struct prefix *prefix,$/;"	f	file:
+route_match_ipv6_address_prefix_list_cmd	isis_routemap.c	/^struct route_map_rule_cmd route_match_ipv6_address_prefix_list_cmd =$/;"	v	typeref:struct:route_map_rule_cmd
+route_match_ipv6_address_prefix_list_compile	isis_routemap.c	/^route_match_ipv6_address_prefix_list_compile(const char *arg)$/;"	f	file:
+route_match_ipv6_address_prefix_list_free	isis_routemap.c	/^route_match_ipv6_address_prefix_list_free (void *rule)$/;"	f	file:
+route_set_metric	isis_routemap.c	/^route_set_metric(void *rule, struct prefix *prefix,$/;"	f	file:
+route_set_metric_cmd	isis_routemap.c	/^static struct route_map_rule_cmd route_set_metric_cmd =$/;"	v	typeref:struct:route_map_rule_cmd	file:
+route_set_metric_compile	isis_routemap.c	/^route_set_metric_compile(const char *arg)$/;"	f	file:
+route_set_metric_free	isis_routemap.c	/^route_set_metric_free(void *rule)$/;"	f	file:
+route_table	isisd.h	/^  struct route_table *route_table[ISIS_LEVELS];	  \/* IPv4 routes *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::route_table
+route_table6	isisd.h	/^  struct route_table *route_table6[ISIS_LEVELS];  \/* IPv6 routes *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::route_table
+router_address	isis_adjacency.h	/^  struct in_addr router_address;$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::in_addr
+router_address	isis_route.h	/^  struct in_addr router_address;$/;"	m	struct:isis_nexthop	typeref:struct:isis_nexthop::in_addr
+router_address6	isis_adjacency.h	/^  struct in6_addr router_address6;$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::in6_addr
+router_address6	isis_route.h	/^  struct in6_addr router_address6;$/;"	m	struct:isis_nexthop6	typeref:struct:isis_nexthop6::in6_addr
+router_id	isis_tlv.h	/^  struct te_router_id *router_id;$/;"	m	struct:tlvs	typeref:struct:tlvs::te_router_id
+router_id	isisd.h	/^  u_int32_t router_id;          \/* Router ID from zebra *\/$/;"	m	struct:isis
+run_dr_elect	isis_circuit.h	/^  char run_dr_elect[2];		\/* Should we run dr election ? *\/$/;"	m	struct:isis_bcast_info
+runcount	isis_spf.h	/^  unsigned int runcount;        \/* number of runs since uptime *\/$/;"	m	struct:isis_spftree
+rx	isis_circuit.h	/^  int (*rx) (struct isis_circuit * circuit, u_char * ssnpa);$/;"	m	struct:isis_circuit
+s	topology/spgrid.c	/^       s;$/;"	v
+s_f	topology/spgrid.c	/^int    s_f = 0, sl_f = 0, sm_f = 0;$/;"	v
+sap_length	isis_circuit.h	/^  int sap_length;		\/* SAP length for DLPI *\/$/;"	m	struct:isis_circuit
+satosiso	include-netbsd/iso.h	189;"	d
+sched_debug	isisd.h	167;"	d
+scheduled	isis_lsp.h	/^  int scheduled;		\/* scheduled for sending *\/$/;"	m	struct:isis_lsp
+seed	topology/spgrid.c	/^long   seed,$/;"	v
+seed1	topology/spgrid.c	/^       seed1,$/;"	v
+seed2	topology/spgrid.c	/^       seed2;$/;"	v
+send_csnp	isis_pdu.c	/^send_csnp (struct isis_circuit *circuit, int level)$/;"	f
+send_hello	isis_pdu.c	/^send_hello (struct isis_circuit *circuit, int level)$/;"	f
+send_l1_csnp	isis_pdu.c	/^send_l1_csnp (struct thread *thread)$/;"	f
+send_l1_psnp	isis_pdu.c	/^send_l1_psnp (struct thread *thread)$/;"	f
+send_l2_csnp	isis_pdu.c	/^send_l2_csnp (struct thread *thread)$/;"	f
+send_l2_psnp	isis_pdu.c	/^send_l2_psnp (struct thread *thread)$/;"	f
+send_lan_l1_hello	isis_pdu.c	/^send_lan_l1_hello (struct thread *thread)$/;"	f
+send_lan_l2_hello	isis_pdu.c	/^send_lan_l2_hello (struct thread *thread)$/;"	f
+send_lsp	isis_pdu.c	/^send_lsp (struct thread *thread)$/;"	f
+send_p2p_hello	isis_pdu.c	/^send_p2p_hello (struct thread *thread)$/;"	f
+send_psnp	isis_pdu.c	/^send_psnp (int level, struct isis_circuit *circuit)$/;"	f	file:
+seq_num	isis_pdu.h	/^  u_int32_t seq_num;$/;"	m	struct:isis_link_state_hdr
+seq_num	isis_tlv.h	/^  u_int32_t seq_num;$/;"	m	struct:lsp_entry
+set_lsp_gen_interval	isisd.c	/^set_lsp_gen_interval (struct vty *vty, struct isis_area *area,$/;"	f	file:
+set_lsp_max_lifetime	isisd.c	/^set_lsp_max_lifetime (struct vty *vty, struct isis_area *area,$/;"	f	file:
+set_lsp_refresh_interval	isisd.c	/^set_lsp_refresh_interval (struct vty *vty, struct isis_area *area,$/;"	f	file:
+show_isis_database	isisd.c	/^show_isis_database (struct vty *vty, const char *argv, int ui_level)$/;"	f	file:
+show_isis_interface_common	isisd.c	/^show_isis_interface_common (struct vty *vty, const char *ifname, char detail)$/;"	f
+show_isis_neighbor_common	isisd.c	/^show_isis_neighbor_common (struct vty *vty, const char *id, char detail)$/;"	f
+sighup	isis_main.c	/^sighup (void)$/;"	f
+sigint	isis_main.c	/^sigint (void)$/;"	f
+sigterm	isis_main.c	/^sigterm (void)$/;"	f
+sigusr1	isis_main.c	/^sigusr1 (void)$/;"	f
+siso_addr	include-netbsd/iso.h	/^	struct iso_addr siso_addr;	\/* network address *\/$/;"	m	struct:sockaddr_iso	typeref:struct:sockaddr_iso::iso_addr
+siso_data	include-netbsd/iso.h	167;"	d
+siso_family	include-netbsd/iso.h	/^	sa_family_t     siso_family;	\/* family *\/$/;"	m	struct:sockaddr_iso
+siso_len	include-netbsd/iso.h	/^	u_char          siso_len;	\/* length *\/$/;"	m	struct:sockaddr_iso
+siso_nlen	include-netbsd/iso.h	166;"	d
+siso_pad	include-netbsd/iso.h	/^	u_char          siso_pad[6];	\/* space for gosip v2 sels *\/$/;"	m	struct:sockaddr_iso
+siso_plen	include-netbsd/iso.h	/^	u_char          siso_plen;	\/* presentation selector length *\/$/;"	m	struct:sockaddr_iso
+siso_slen	include-netbsd/iso.h	/^	u_char          siso_slen;	\/* session selector length *\/$/;"	m	struct:sockaddr_iso
+siso_tlen	include-netbsd/iso.h	/^	u_char          siso_tlen;	\/* transport selector length *\/$/;"	m	struct:sockaddr_iso
+sisotosa	include-netbsd/iso.h	190;"	d
+sl	topology/spgrid.c	/^long   sl   = VERY_FAR, \/* upper bound of artifical arc *\/$/;"	v
+sl_f	topology/spgrid.c	/^int    s_f = 0, sl_f = 0, sm_f = 0;$/;"	v
+sm	topology/spgrid.c	/^       sm,              \/* lower bound of artifical arc *\/$/;"	v
+sm_f	topology/spgrid.c	/^int    s_f = 0, sl_f = 0, sm_f = 0;$/;"	v
+snd_stream	isis_circuit.h	/^  struct stream *snd_stream;	\/* Stream for sending *\/$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::stream
+snp_auth	isis_common.h	/^  u_char snp_auth;$/;"	m	struct:isis_passwd
+snpa	isis_adjacency.h	/^  u_char snpa[ETH_ALEN];		\/* NeighbourSNPAAddress *\/$/;"	m	struct:isis_adjacency
+snpa	isis_circuit.h	/^  u_char snpa[ETH_ALEN];	\/* SNPA of this circuit *\/$/;"	m	struct:isis_bcast_info
+snpa	isis_misc.c	/^char snpa[15];$/;"	v
+snpa_print	isis_misc.c	/^snpa_print (const u_char * from)$/;"	f
+sock_buff	isis_bpf.c	/^static char sock_buff[8192];$/;"	v	file:
+sock_buff	isis_dlpi.c	/^static u_char sock_buff[8192];$/;"	v	file:
+sock_buff	isis_pfpacket.c	/^static uint8_t sock_buff[8192];$/;"	v	file:
+sockaddr_iso	include-netbsd/iso.h	/^struct sockaddr_iso {$/;"	s
+source	topology/spgrid.c	/^       source,$/;"	v
+source_id	isis_pdu.h	/^  u_char source_id[ISIS_SYS_ID_LEN + 1];$/;"	m	struct:isis_complete_seqnum_hdr
+source_id	isis_pdu.h	/^  u_char source_id[ISIS_SYS_ID_LEN + 1];$/;"	m	struct:isis_partial_seqnum_hdr
+source_id	isis_pdu.h	/^  u_char source_id[ISIS_SYS_ID_LEN];$/;"	m	struct:isis_lan_hello_hdr
+source_id	isis_pdu.h	/^  u_char source_id[ISIS_SYS_ID_LEN];$/;"	m	struct:isis_p2p_hello_hdr
+speaks	isis_misc.c	/^speaks (struct nlpids *nlpids, int family)$/;"	f
+spftree	isisd.h	/^  struct isis_spftree *spftree[ISIS_LEVELS];	  \/* The v4 SPTs *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::isis_spftree
+spftree6	isisd.h	/^  struct isis_spftree *spftree6[ISIS_LEVELS];	  \/* The v6 SPTs *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::isis_spftree
+spftree_area_adj_del	isis_spf.c	/^spftree_area_adj_del (struct isis_area *area, struct isis_adjacency *adj)$/;"	f
+spftree_area_del	isis_spf.c	/^spftree_area_del (struct isis_area *area)$/;"	f
+spftree_area_init	isis_spf.c	/^spftree_area_init (struct isis_area *area)$/;"	f
+spgrid_check_params	topology/spgrid.c	/^spgrid_check_params ( struct vty *vty, int argc, const char **argv)$/;"	f
+start_lsp_id	isis_pdu.h	/^  u_char start_lsp_id[ISIS_SYS_ID_LEN + 2];$/;"	m	struct:isis_complete_seqnum_hdr
+state	isis_circuit.h	/^  int state;$/;"	m	struct:isis_circuit
+stop_lsp_id	isis_pdu.h	/^  u_char stop_lsp_id[ISIS_SYS_ID_LEN + 2];$/;"	m	struct:isis_complete_seqnum_hdr
+string2circuit_t	isis_misc.c	/^string2circuit_t (const char * str)$/;"	f
+sub_tlvs_length	isis_tlv.h	/^  u_char sub_tlvs_length;$/;"	m	struct:te_is_neigh
+sys_type	isis_adjacency.h	/^  enum isis_system_type sys_type;	\/* neighbourSystemType *\/$/;"	m	struct:isis_adjacency	typeref:enum:isis_adjacency::isis_system_type
+sysid	isis_adjacency.h	/^  u_char sysid[ISIS_SYS_ID_LEN];	\/* neighbourSystemIdentifier *\/$/;"	m	struct:isis_adjacency
+sysid	isis_misc.c	/^char sysid[15];$/;"	v
+sysid	isisd.h	/^  u_char sysid[ISIS_SYS_ID_LEN];	\/* SystemID for this IS *\/$/;"	m	struct:isis
+sysid2buff	isis_misc.c	/^sysid2buff (u_char * buff, const char * dotted)$/;"	f
+sysid_print	isis_misc.c	/^sysid_print (const u_char * from)$/;"	f
+sysid_set	isisd.h	/^  int sysid_set;$/;"	m	struct:isis
+syst2string	isis_misc.c	/^syst2string (int type)$/;"	f
+t_dync_clean	isisd.h	/^  struct thread *t_dync_clean;	\/* dynamic hostname cache cleanup thread *\/$/;"	m	struct:isis	typeref:struct:isis::thread
+t_expire	isis_adjacency.h	/^  struct thread *t_expire;	\/* expire after hold_time  *\/$/;"	m	struct:isis_adjacency	typeref:struct:isis_adjacency::thread
+t_lsp_refresh	isisd.h	/^  struct thread *t_lsp_refresh[ISIS_LEVELS];$/;"	m	struct:isis_area	typeref:struct:isis_area::thread
+t_lsp_top_ref	isis_lsp.h	/^  struct thread *t_lsp_top_ref;$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::thread
+t_read	isis_circuit.h	/^  struct thread *t_read;$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::thread
+t_refresh_pseudo_lsp	isis_circuit.h	/^  struct thread *t_refresh_pseudo_lsp[2];	\/* refresh pseudo-node LSPs *\/$/;"	m	struct:isis_bcast_info	typeref:struct:isis_bcast_info::thread
+t_run_dr	isis_circuit.h	/^  struct thread *t_run_dr[2];	\/* DR election thread *\/$/;"	m	struct:isis_bcast_info	typeref:struct:isis_bcast_info::thread
+t_send_csnp	isis_circuit.h	/^  struct thread *t_send_csnp[2];$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::thread
+t_send_lan_hello	isis_circuit.h	/^  struct thread *t_send_lan_hello[2];	\/* send LAN IIHs in this thread *\/$/;"	m	struct:isis_bcast_info	typeref:struct:isis_bcast_info::thread
+t_send_p2p_hello	isis_circuit.h	/^  struct thread *t_send_p2p_hello;	\/* send P2P IIHs in this thread  *\/$/;"	m	struct:isis_p2p_info	typeref:struct:isis_p2p_info::thread
+t_send_psnp	isis_circuit.h	/^  struct thread *t_send_psnp[2];$/;"	m	struct:isis_circuit	typeref:struct:isis_circuit::thread
+t_spf	isis_spf.h	/^  struct thread *t_spf;		\/* spf threads *\/$/;"	m	struct:isis_spftree	typeref:struct:isis_spftree::thread
+t_tick	isisd.h	/^  struct thread *t_tick;	\/* LSP walker *\/$/;"	m	struct:isis_area	typeref:struct:isis_area::thread
+te_ipv4_reachability	isis_tlv.h	/^struct te_ipv4_reachability$/;"	s
+te_ipv4_reachs	isis_tlv.h	/^  struct list *te_ipv4_reachs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+te_is_neigh	isis_tlv.h	/^struct te_is_neigh$/;"	s
+te_is_neighs	isis_tlv.h	/^  struct list *te_is_neighs;$/;"	m	struct:tlvs	typeref:struct:tlvs::list
+te_metric	isis_circuit.h	/^  u_int32_t te_metric[2];$/;"	m	struct:isis_circuit
+te_metric	isis_tlv.h	/^  u_char te_metric[3];$/;"	m	struct:te_is_neigh
+te_metric	isis_tlv.h	/^  u_int32_t te_metric;$/;"	m	struct:te_ipv4_reachability
+te_router_id	isis_tlv.h	/^struct te_router_id$/;"	s
+tents	isis_spf.h	/^  struct list *tents;		\/* TENT *\/$/;"	m	struct:isis_spftree	typeref:struct:isis_spftree::list
+terminate	isis_main.c	/^terminate (int i)$/;"	f	file:
+time2string	isis_misc.c	/^time2string (u_int32_t time)$/;"	f
+timer	topology/random.c	/^unsigned long timer ()$/;"	f
+tlv_add_area_addrs	isis_tlv.c	/^tlv_add_area_addrs (struct list *area_addrs, struct stream *stream)$/;"	f
+tlv_add_authinfo	isis_tlv.c	/^tlv_add_authinfo (u_char auth_type, u_char auth_len, u_char *auth_value,$/;"	f
+tlv_add_checksum	isis_tlv.c	/^tlv_add_checksum (struct checksum *checksum, struct stream *stream)$/;"	f
+tlv_add_dynamic_hostname	isis_tlv.c	/^tlv_add_dynamic_hostname (struct hostname *hostname, struct stream *stream)$/;"	f
+tlv_add_in_addr	isis_tlv.c	/^tlv_add_in_addr (struct in_addr *addr, struct stream *stream, u_char tag)$/;"	f
+tlv_add_ip_addrs	isis_tlv.c	/^tlv_add_ip_addrs (struct list *ip_addrs, struct stream *stream)$/;"	f
+tlv_add_ipv4_ext_reachs	isis_tlv.c	/^tlv_add_ipv4_ext_reachs (struct list *ipv4_reachs, struct stream *stream)$/;"	f
+tlv_add_ipv4_int_reachs	isis_tlv.c	/^tlv_add_ipv4_int_reachs (struct list *ipv4_reachs, struct stream *stream)$/;"	f
+tlv_add_ipv4_reachs	isis_tlv.c	/^tlv_add_ipv4_reachs (u_char tag, struct list *ipv4_reachs, struct stream *stream)$/;"	f	file:
+tlv_add_ipv6_addrs	isis_tlv.c	/^tlv_add_ipv6_addrs (struct list *ipv6_addrs, struct stream *stream)$/;"	f
+tlv_add_ipv6_reachs	isis_tlv.c	/^tlv_add_ipv6_reachs (struct list *ipv6_reachs, struct stream *stream)$/;"	f
+tlv_add_is_neighs	isis_tlv.c	/^tlv_add_is_neighs (struct list *is_neighs, struct stream *stream)$/;"	f
+tlv_add_lan_neighs	isis_tlv.c	/^tlv_add_lan_neighs (struct list *lan_neighs, struct stream *stream)$/;"	f
+tlv_add_lsp_entries	isis_tlv.c	/^tlv_add_lsp_entries (struct list *lsps, struct stream *stream)$/;"	f
+tlv_add_nlpid	isis_tlv.c	/^tlv_add_nlpid (struct nlpids *nlpids, struct stream *stream)$/;"	f
+tlv_add_padding	isis_tlv.c	/^tlv_add_padding (struct stream *stream)$/;"	f
+tlv_add_te_ipv4_reachs	isis_tlv.c	/^tlv_add_te_ipv4_reachs (struct list *te_ipv4_reachs, struct stream *stream)$/;"	f
+tlv_add_te_is_neighs	isis_tlv.c	/^tlv_add_te_is_neighs (struct list *te_is_neighs, struct stream *stream)$/;"	f
+tlv_data	isis_lsp.h	/^  struct tlvs tlv_data;		\/* Simplifies TLV access *\/$/;"	m	struct:isis_lsp	typeref:struct:isis_lsp::tlvs
+tlvs	isis_tlv.h	/^struct tlvs$/;"	s
+tlvs_to_adj_area_addrs	isis_pdu.c	/^tlvs_to_adj_area_addrs (struct tlvs *tlvs, struct isis_adjacency *adj)$/;"	f	file:
+tlvs_to_adj_ipv4_addrs	isis_pdu.c	/^tlvs_to_adj_ipv4_addrs (struct tlvs *tlvs, struct isis_adjacency *adj)$/;"	f	file:
+tlvs_to_adj_ipv6_addrs	isis_pdu.c	/^tlvs_to_adj_ipv6_addrs (struct tlvs *tlvs, struct isis_adjacency *adj)$/;"	f	file:
+tlvs_to_adj_nlpids	isis_pdu.c	/^tlvs_to_adj_nlpids (struct tlvs *tlvs, struct isis_adjacency *adj)$/;"	f	file:
+to_node	topology/spgrid.h	/^  long to_node;$/;"	m	struct:arc
+tokenize	dict.c	/^static int tokenize(char *string, ...)$/;"	f	file:
+top_params	isisd.h	/^  char top_params[200];                   \/* FIXME: what is reasonable? *\/$/;"	m	struct:isis_area
+topology	isisd.h	/^  struct list *topology;$/;"	m	struct:isis_area	typeref:struct:isis_area::list
+topology_basedynh	isisd.h	/^  char *topology_basedynh;                \/* Dynamic hostname base. *\/$/;"	m	struct:isis_area
+topology_baseis	isisd.h	/^  u_char topology_baseis[ISIS_SYS_ID_LEN];  \/* IS for the first IS emulated. *\/$/;"	m	struct:isis_area
+tr_blast_cnt	include-netbsd/clnp.h	/^	int             tr_blast_cnt;	\/* # of pkts to blast out *\/$/;"	m	struct:troll
+tr_drop_freq	include-netbsd/clnp.h	/^	float           tr_drop_freq;	\/* frequence to drop packets *\/$/;"	m	struct:troll
+tr_dup_freq	include-netbsd/clnp.h	/^	float           tr_dup_freq;	\/* frequency to duplicate packets *\/$/;"	m	struct:troll
+tr_dup_size	include-netbsd/clnp.h	/^	float           tr_dup_size;	\/* % to duplicate *\/$/;"	m	struct:troll
+tr_mtu_adj	include-netbsd/clnp.h	/^	int             tr_mtu_adj;	\/* delta to adjust if mtu *\/$/;"	m	struct:troll
+tr_ops	include-netbsd/clnp.h	/^	int             tr_ops;	\/* operations to perform *\/$/;"	m	struct:troll
+troll	include-netbsd/clnp.h	/^struct troll {$/;"	s
+trollctl	include-netbsd/clnp.h	/^struct troll    trollctl;$/;"	v	typeref:struct:troll
+tx	isis_circuit.h	/^  int (*tx) (struct isis_circuit * circuit, int level);$/;"	m	struct:isis_circuit
+type	isis_common.h	/^  u_char type;$/;"	m	struct:isis_passwd
+type	isis_spf.h	/^  enum vertextype type;$/;"	m	struct:isis_vertex	typeref:enum:isis_vertex::vertextype
+u	isis_circuit.h	/^  } u;$/;"	m	struct:isis_circuit	typeref:union:isis_circuit::__anon4
+unix_hostname	isis_misc.c	/^unix_hostname (void)$/;"	f
+upadjcount	isis_circuit.h	/^  u_int16_t upadjcount[2];$/;"	m	struct:isis_circuit
+uptime	isisd.h	/^  time_t uptime;		\/* when did we start *\/$/;"	m	struct:isis
+usage	isis_main.c	/^usage (int status)$/;"	f	file:
+usage	topology/spgrid.c	/^usage (struct vty *vty) {$/;"	f
+validate_metric_style_narrow	isisd.c	/^validate_metric_style_narrow (struct vty *vty, struct isis_area *area)$/;"	f	file:
+value	isis_tlv.h	/^  u_char *value;$/;"	m	struct:idrp_info
+verify_bintree	dict.c	/^static int verify_bintree(dict_t *dict)$/;"	f	file:
+verify_dict_has_node	dict.c	/^static int verify_dict_has_node(dnode_t *nil, dnode_t *root, dnode_t *node)$/;"	f	file:
+verify_node_count	dict.c	/^static dictcount_t verify_node_count(dnode_t *nil, dnode_t *root)$/;"	f	file:
+verify_redblack	dict.c	/^static unsigned int verify_redblack(dnode_t *nil, dnode_t *root)$/;"	f	file:
+version	isis_pdu.h	/^  u_char version;$/;"	m	struct:esis_fixed_hdr
+version1	isis_pdu.h	/^  u_char version1;$/;"	m	struct:isis_fixed_hdr
+version2	isis_pdu.h	/^  u_char version2;$/;"	m	struct:isis_fixed_hdr
+vertextype	isis_spf.h	/^enum vertextype$/;"	g
+vid2string	isis_spf.c	/^vid2string (struct isis_vertex *vertex, u_char * buff)$/;"	f	file:
+vty_out_timestr	isisd.c	/^vty_out_timestr(struct vty *vty, time_t uptime)$/;"	f	file:
+vtype2string	isis_spf.c	/^vtype2string (enum vertextype vtype)$/;"	f	file:
+x	topology/spgrid.c	/^long   x,$/;"	v
+xn	topology/spgrid.c	/^       dl, dx, xn, yyn, count,$/;"	v
+y	topology/spgrid.c	/^       y,$/;"	v
+yy1	topology/spgrid.c	/^       yy1, yy2, yyp,$/;"	v
+yy2	topology/spgrid.c	/^       yy1, yy2, yyp,$/;"	v
+yyn	topology/spgrid.c	/^       dl, dx, xn, yyn, count,$/;"	v
+yyp	topology/spgrid.c	/^       yy1, yy2, yyp,$/;"	v
+zclient	isis_zebra.c	/^struct zclient *zclient = NULL;$/;"	v	typeref:struct:zclient
+zero_lsp	isis_lsp.h	/^    struct isis_lsp *zero_lsp;$/;"	m	union:isis_lsp::__anon2	typeref:struct:isis_lsp::__anon2::isis_lsp
+zlog_dump_data	isis_misc.c	/^zlog_dump_data (void *data, int len)$/;"	f
